@@ -2,7 +2,7 @@
 
 **Spring 2016**
 
-## [Course Website](http://www.engr.uvic.ca/~seng310)
+## [Course Website](https://connex.csc.uvic.ca/portal/site/f389ce58-2d97-4851-90d0-8ce46f26479e)
 
 * __Instructor__: Margaret-Anne D Storey 
 * __Email__: [mstorey@uvic.ca](mailto:mstorey@uvic.ca)
