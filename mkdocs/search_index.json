@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "SENG 310: Human Computer Interaction\n\n\nSpring 2016\n\n\nCourse Website\n\n\n\n\nInstructor\n: Margaret-Anne D Storey \n\n\nEmail\n: \nmstorey@uvic.ca\n\n\nOffice\n: ECS 562 \n\n\nPhone Number\n: (250) 472-5713 \n\n\nOffice Hours\n: Thursdays, 2:30 PM to 4:30 PM\n\n\n\n\nTextbooks\n\n\nInteraction Design: Beyond Human-Computer Interaction\n\nby Preece, Rogers and Sharp, 4th Edition\n\nWiley, ISBN: 978-1-119-02075-2\n\n\nGrading\n\n\n\n\n\n\n\n\nCoursework\n\n\nWeight\n\n\n\n\n\n\n\n\n\n\nProject\n\n\n30%\n\n\n\n\n\n\nAssignments\n\n\n10%\n\n\n\n\n\n\nIn class/lab activities\n\n\n10%\n\n\n\n\n\n\nMidterm Exam\n\n\n20%\n\n\n\n\n\n\nFinal Exam\n\n\n30%", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#seng-310-human-computer-interaction", 
+            "text": "Spring 2016", 
+            "title": "SENG 310: Human Computer Interaction"
+        }, 
+        {
+            "location": "/#course-website", 
+            "text": "Instructor : Margaret-Anne D Storey   Email :  mstorey@uvic.ca  Office : ECS 562   Phone Number : (250) 472-5713   Office Hours : Thursdays, 2:30 PM to 4:30 PM", 
+            "title": "Course Website"
+        }, 
+        {
+            "location": "/#textbooks", 
+            "text": "Interaction Design: Beyond Human-Computer Interaction \nby Preece, Rogers and Sharp, 4th Edition \nWiley, ISBN: 978-1-119-02075-2", 
+            "title": "Textbooks"
+        }, 
+        {
+            "location": "/#grading", 
+            "text": "Coursework  Weight      Project  30%    Assignments  10%    In class/lab activities  10%    Midterm Exam  20%    Final Exam  30%", 
+            "title": "Grading"
+        }, 
+        {
+            "location": "/2016-01-04/", 
+            "text": "Lecture 1 - Notes\n\n\nJanuary 4, 2016\n\n\nSENG 310\n\n\nThe Productivity Paradox\n\n\n\n\nPhase 1\n applications replace or automate actions done by humans\n\n\nPhase 2\n applications help humans think\n\n\n\n\nSuccesses\n: word processors, spreadsheets, accounting systems, ATMs, airline registration systems\n\n\nFailures\n: US Patent Office, government systems\n\n\nProduct Development\n\n\n\n\nViability\n\n\nDesirability\n\n\nFeasibility", 
+            "title": "2016 01 04"
+        }, 
+        {
+            "location": "/2016-01-04/#lecture-1-notes", 
+            "text": "January 4, 2016", 
+            "title": "Lecture 1 - Notes"
+        }, 
+        {
+            "location": "/2016-01-04/#seng-310", 
+            "text": "The Productivity Paradox   Phase 1  applications replace or automate actions done by humans  Phase 2  applications help humans think   Successes : word processors, spreadsheets, accounting systems, ATMs, airline registration systems  Failures : US Patent Office, government systems  Product Development   Viability  Desirability  Feasibility", 
+            "title": "SENG 310"
+        }, 
+        {
+            "location": "/2016-01-07/", 
+            "text": "Lecture 2 - Notes\n\n\nJanuary 7, 2016\n\n\nHistory of Interaction Design\n\n\nIn the early days there was a strong focus on \noperating the machine\n. People were trained to use computers in the workplace.\n\n\nBush's Memex\n\n\nConceived of Hypertext and the World Wide Web (didn't coin them though). Allows you to store all your documents with cross references and margin notes.\n\n\nThe First Mouse (1964)\n\n\nThe first mouse was created for your knee. It was probably terrible.", 
+            "title": "2016 01 07"
+        }, 
+        {
+            "location": "/2016-01-07/#lecture-2-notes", 
+            "text": "January 7, 2016", 
+            "title": "Lecture 2 - Notes"
+        }, 
+        {
+            "location": "/2016-01-07/#history-of-interaction-design", 
+            "text": "In the early days there was a strong focus on  operating the machine . People were trained to use computers in the workplace.  Bush's Memex  Conceived of Hypertext and the World Wide Web (didn't coin them though). Allows you to store all your documents with cross references and margin notes.  The First Mouse (1964)  The first mouse was created for your knee. It was probably terrible.", 
+            "title": "History of Interaction Design"
+        }, 
+        {
+            "location": "/2016-01-11/", 
+            "text": "Lecture 3 - Notes\n\n\nJanuary 11, 2016\n\n\nNorman's Principals of Design\n\n\nVisibility\n\n\n\n\nThe correct parts must be visible and they must convey  the correct message \n\n\nNatural signals are naturally interpreted \n\n\nVisibility problems occur when clues are lacking \n\n\nThe mapping between intended actions and actual operations should be visible\n\n\n\n\nMappings\n\n\n\n\nControls and displays should exploit natural mappings \n\n\nNatural mappings take advantage of physical analogies and cultural standards\n\n\n\n\nScaffolding\n can cause problems when it comes to remembering where things are.\n\n\nAffordances\n allow us to imbue objects and controls with purpose, e.g., buttons push. In virtual interfaces we don't have \"real\" affordances since the interface lacks dimension. However using visual effects we can create \"perceived\" affordances.\n\n\nFeedback\n\n\n\n\nSending information back to the user about what has been done\n\n\nIncludes sound, highlighting, animation and combinations of these\n\n\n\n\nConstraints\n\n\n\n\nRestricting the possible actions that can be performed\n\n\nHelps prevent user from selecting incorrect options\n\n\nThree main types (Norman, 1999)\n\n\nphysical\n\n\ncultural \n\n\nlogical\n\n\n\n\nConsistency\n\n\n\n\nDesign interfaces to have similar operations and use similar elements for similar tasks\n\n\nMain benefit is consistent interfaces are easier to learn and use\n\n\n\n\nExample\n\n\nAlways use ctrl key plus first initial of the command for an operation\n\n\nctrl\n+\nC\n, \nctrl\n+\nS\n, \nctrl\n+\nO", 
+            "title": "2016 01 11"
+        }, 
+        {
+            "location": "/2016-01-11/#lecture-3-notes", 
+            "text": "January 11, 2016", 
+            "title": "Lecture 3 - Notes"
+        }, 
+        {
+            "location": "/2016-01-11/#normans-principals-of-design", 
+            "text": "Visibility   The correct parts must be visible and they must convey  the correct message   Natural signals are naturally interpreted   Visibility problems occur when clues are lacking   The mapping between intended actions and actual operations should be visible   Mappings   Controls and displays should exploit natural mappings   Natural mappings take advantage of physical analogies and cultural standards   Scaffolding  can cause problems when it comes to remembering where things are.  Affordances  allow us to imbue objects and controls with purpose, e.g., buttons push. In virtual interfaces we don't have \"real\" affordances since the interface lacks dimension. However using visual effects we can create \"perceived\" affordances.  Feedback   Sending information back to the user about what has been done  Includes sound, highlighting, animation and combinations of these   Constraints   Restricting the possible actions that can be performed  Helps prevent user from selecting incorrect options  Three main types (Norman, 1999)  physical  cultural   logical   Consistency   Design interfaces to have similar operations and use similar elements for similar tasks  Main benefit is consistent interfaces are easier to learn and use   Example  Always use ctrl key plus first initial of the command for an operation  ctrl + C ,  ctrl + S ,  ctrl + O", 
+            "title": "Norman's Principals of Design"
+        }
+    ]
+}
