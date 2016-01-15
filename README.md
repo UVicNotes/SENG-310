@@ -1,6 +1,6 @@
 # SENG 310
 
-
+[![Build Status](https://travis-ci.org/UVicNotes/SENG-310.svg?branch=master)](https://travis-ci.org/UVicNotes/SENG-310)
 
 ### [View on GitHub Pages](http://uvicnotes.github.io/SENG-310/)
 
