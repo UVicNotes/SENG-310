@@ -16,7 +16,7 @@
 by Preece, Rogers and Sharp, 4th Edition  
 Wiley, ISBN: 978-1-119-02075-2
 
-## Grading	
+## Grading
 
 | Coursework              | Weight |
 |-------------------------|:------:|

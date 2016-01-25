@@ -3,3 +3,7 @@ site/
 
 # Binary Files
 *.pdf
+
+# Personal Stuff
+Assignments/
+Project/
