@@ -32,13 +32,28 @@
         }, 
         {
             "location": "/2016-01-04/#lecture-1-notes", 
-            "text": "January 4, 2016", 
+            "text": "", 
             "title": "Lecture 1 - Notes"
         }, 
         {
+            "location": "/2016-01-04/#january-4-2016", 
+            "text": "", 
+            "title": "January 4, 2016"
+        }, 
+        {
             "location": "/2016-01-04/#seng-310", 
-            "text": "The Productivity Paradox   Phase 1  applications replace or automate actions done by humans  Phase 2  applications help humans think   Successes : word processors, spreadsheets, accounting systems, ATMs, airline registration systems  Failures : US Patent Office, government systems  Product Development   Viability  Desirability  Feasibility", 
+            "text": "", 
             "title": "SENG 310"
+        }, 
+        {
+            "location": "/2016-01-04/#the-productivity-paradox", 
+            "text": "Phase 1  applications replace or automate actions done by humans  Phase 2  applications help humans think   Successes : word processors, spreadsheets, accounting systems, ATMs, airline registration systems  Failures : US Patent Office, government systems", 
+            "title": "The Productivity Paradox"
+        }, 
+        {
+            "location": "/2016-01-04/#product-development", 
+            "text": "Viability  Desirability  Feasibility", 
+            "title": "Product Development"
         }, 
         {
             "location": "/2016-01-07/", 
@@ -47,13 +62,28 @@
         }, 
         {
             "location": "/2016-01-07/#lecture-2-notes", 
-            "text": "January 7, 2016", 
+            "text": "", 
             "title": "Lecture 2 - Notes"
         }, 
         {
+            "location": "/2016-01-07/#january-7-2016", 
+            "text": "", 
+            "title": "January 7, 2016"
+        }, 
+        {
             "location": "/2016-01-07/#history-of-interaction-design", 
-            "text": "In the early days there was a strong focus on  operating the machine . People were trained to use computers in the workplace.  Bush's Memex  Conceived of Hypertext and the World Wide Web (didn't coin them though). Allows you to store all your documents with cross references and margin notes.  The First Mouse (1964)  The first mouse was created for your knee. It was probably terrible.", 
+            "text": "In the early days there was a strong focus on  operating the machine . People were trained to use computers in the workplace.", 
             "title": "History of Interaction Design"
+        }, 
+        {
+            "location": "/2016-01-07/#bushs-memex", 
+            "text": "Conceived of Hypertext and the World Wide Web (didn't coin them though). Allows you to store all your documents with cross references and margin notes.", 
+            "title": "Bush's Memex"
+        }, 
+        {
+            "location": "/2016-01-07/#the-first-mouse-1964", 
+            "text": "The first mouse was created for your knee. It was probably terrible.", 
+            "title": "The First Mouse (1964)"
         }, 
         {
             "location": "/2016-01-11/", 
@@ -62,13 +92,48 @@
         }, 
         {
             "location": "/2016-01-11/#lecture-3-notes", 
-            "text": "January 11, 2016", 
+            "text": "", 
             "title": "Lecture 3 - Notes"
         }, 
         {
+            "location": "/2016-01-11/#january-11-2016", 
+            "text": "", 
+            "title": "January 11, 2016"
+        }, 
+        {
             "location": "/2016-01-11/#normans-principals-of-design", 
-            "text": "Visibility   The correct parts must be visible and they must convey  the correct message   Natural signals are naturally interpreted   Visibility problems occur when clues are lacking   The mapping between intended actions and actual operations should be visible   Mappings   Controls and displays should exploit natural mappings   Natural mappings take advantage of physical analogies and cultural standards   Scaffolding  can cause problems when it comes to remembering where things are.  Affordances  allow us to imbue objects and controls with purpose, e.g., buttons push. In virtual interfaces we don't have \"real\" affordances since the interface lacks dimension. However using visual effects we can create \"perceived\" affordances.  Feedback   Sending information back to the user about what has been done  Includes sound, highlighting, animation and combinations of these   Constraints   Restricting the possible actions that can be performed  Helps prevent user from selecting incorrect options  Three main types (Norman, 1999)  physical  cultural   logical   Consistency   Design interfaces to have similar operations and use similar elements for similar tasks  Main benefit is consistent interfaces are easier to learn and use   Example  Always use ctrl key plus first initial of the command for an operation  ctrl + C ,  ctrl + S ,  ctrl + O", 
+            "text": "", 
             "title": "Norman's Principals of Design"
+        }, 
+        {
+            "location": "/2016-01-11/#visibility", 
+            "text": "The correct parts must be visible and they must convey  the correct message   Natural signals are naturally interpreted   Visibility problems occur when clues are lacking   The mapping between intended actions and actual operations should be visible", 
+            "title": "Visibility"
+        }, 
+        {
+            "location": "/2016-01-11/#mappings", 
+            "text": "Controls and displays should exploit natural mappings   Natural mappings take advantage of physical analogies and cultural standards   Scaffolding  can cause problems when it comes to remembering where things are.  Affordances  allow us to imbue objects and controls with purpose, e.g., buttons push. In virtual interfaces we don't have \"real\" affordances since the interface lacks dimension. However using visual effects we can create \"perceived\" affordances.", 
+            "title": "Mappings"
+        }, 
+        {
+            "location": "/2016-01-11/#feedback", 
+            "text": "Sending information back to the user about what has been done  Includes sound, highlighting, animation and combinations of these", 
+            "title": "Feedback"
+        }, 
+        {
+            "location": "/2016-01-11/#constraints", 
+            "text": "Restricting the possible actions that can be performed  Helps prevent user from selecting incorrect options  Three main types (Norman, 1999)  physical  cultural   logical", 
+            "title": "Constraints"
+        }, 
+        {
+            "location": "/2016-01-11/#consistency", 
+            "text": "Design interfaces to have similar operations and use similar elements for similar tasks  Main benefit is consistent interfaces are easier to learn and use", 
+            "title": "Consistency"
+        }, 
+        {
+            "location": "/2016-01-11/#example", 
+            "text": "Always use ctrl key plus first initial of the command for an operation  ctrl + C ,  ctrl + S ,  ctrl + O", 
+            "title": "Example"
         }, 
         {
             "location": "/2016-01-14/", 
@@ -77,13 +142,103 @@
         }, 
         {
             "location": "/2016-01-14/#seng-310-lecture-4", 
-            "text": "14 January 2015", 
+            "text": "", 
             "title": "SENG 310 - Lecture 4"
         }, 
         {
+            "location": "/2016-01-14/#14-january-2015", 
+            "text": "", 
+            "title": "14 January 2015"
+        }, 
+        {
             "location": "/2016-01-14/#psychology-of-everyday-actions", 
-            "text": "Falsely blaming yourself \nMisconceptions of everyday life \nBlaming the wrong cause    The Seven Stages of Action   forming the goal (e.g. thirsty, going to get something to drink)  forming the intention (e.g. get a soda)  specifying the action (e.g. decide to buy from vending machine)  executing the action (e.g. enter number to get drink)  perceiving the state of the world (e.g. machine gave cue something is happening)  interpreting the state of the world (e.g. realize the clunking is a drink falling)  evaluating the outcome (e.g. deciding if user got the correct drink)   Excecution  The  execution stages  depend on the user's understanding of the system's functionality and how to access that functionality. \nThe  gulf of execution  is the difference between the intentions of the person and the perceived, allowable actions, (i.e. do the actions provided by the system match those intended by the person?).  Evaluation  The  evaluation stages  depend on the user correctly understanding the system's state. \nThe  gulf of evaluation  is the amount of effort the user must exert to interpret the system and determine how well the expectation and intentions have been met.  The Seven Stages of Action as Design Aids  How easily can one:    determine the function of the device?   tell what actions are possible?   determine mapping from intention to physical movement?   perform the action?   tell if the system is in a desired state?   determine mapping from system state to interpretation?   tell what state the system is in?    Norman\u2019s Principles of Design for Understandability and Usability  Provide a good conceptual model, taking advantage of  affordances     constraints .  Make things visible\u2026 \nThe principle of mapping: natural mappings lead to immediate understanding \nThe principle of feedback: send back to the user information about what action has actually been done    It generally takes 5 or 6 attempts to get something right, a new product will sink or swim in 1 or 2 attempts (e.g. voice messages on cameras and pop machines)  Conceptual models  A  conceptual model  is the general conceptual framework through which the functionality of an object is presented. A conceptual model is a description of the proposed system in terms of a set of integrated ideas and concepts about what it should do, behave and look like, that will be understandable by the users in the manner intended. A good conceptual model allows users to  predict the effects of their actions .    The  system image  describes the physical structure that has been built \ni.e. the physical characteristics of the application itself (look and feel). \nThe designer communicates their design model using the system image and any documentation that goes with it. The  user's conceptual model  is developed through interacting with the system and by reading any accompanying documentation.    Models Based on Activities  Giving Instructions   User's give instructions to computer (e.g. tell time, save a file)  Benefit is that is provides quick and efficient interations  Good for repetitive kinds of actions   Conversing   Underlying model of having a conversation with another human  Range of simple voice recognition menu-driven systems to complex dialogues (e.g. Clippy, Siri)  Allows users, especially novices to ineract in a comfortable way that's more familiar   Manipulating   Draging, selecting, opening, closing and zooming  Exploit user's knowledge of how they move and manipulate in the physical world  Continuous representation of objects and actions of interest  Physical actions and button pressing instead of issuing commands with complex syntax  Rapid reversible actions with immediate feedback on object of interest   Advantages:   Novices can learn the basic functionality quickly  Experienced users can work extremely rapidly to carry out a wide range of tasks, even defining new functions   Intermittent users can retain operational concepts over time  Error messages rarely needed  Users can immediately see if their actions are furthering their goals and if not do something else  Users experience less anxiety  Users gain confidence and mastery and feel in control   Disadvantages   Some people take the metaphor of direct manipulation too literally  Not all tasks can be described by objects and not all actions can be done directly  Some tasks are better achieved through delegating (e.g. spell checking)  Can become screen space \u2018gobblers\u2019  Moving a mouse around the screen can be slower than pressing function keys to do same actions   Exploring   Similar to how people browse information with existing media (e.g. newspapers, magazines, libraries, pamphlets)  Information is structured to allow flexibility in way user is able to search for information   Which Conceptual Model is Best  Direct manipulation is good for \u2018doing\u2019 types of tasks, e.g. designing, drawing, flying, driving, sizing windows. \nIssuing instructions is good for repetitive tasks (e.g. spell-checking, file management). \nHaving a conversation is good for children, computer-phobic, disabled users and specialized applications (e.g. phone services). \nHybrid conceptual models are often employed, where different ways of carrying out the same actions is supported at the interface - but can take longer to learn.    Interface Metaphors  Interface designed to be similar to a physical entity but also has own properties (e.g. desktop metaphor, web portals). \nCan be based on activity, object or a combination of both. \nExploit user\u2019s familiar knowledge, helping them to understand \u2018the unfamiliar\u2019. \nConjures up the essence of the unfamiliar activity, enabling users to leverage of this to understand more aspects of the unfamiliar functionality.    Advantages   Makes learning new systems easier  Helps users understand the underlying conceptual model  Can be very innovative and enable the realm of computers and their applications to be made more accessible   Disadvantages   Break conventional and cultural rules (e.g. recycle bin placed on desktop)  Can constrain designers in the way they conceptualize a problem space  Conflict with design principles  Forces users to only understand the system in terms of the metaphor  Designers can inadvertently use bad existing designs and transfer the bad parts over  Limits designers\u2019 imagination in coming up with new conceptual models", 
+            "text": "Falsely blaming yourself \nMisconceptions of everyday life \nBlaming the wrong cause", 
             "title": "Psychology of Everyday Actions"
+        }, 
+        {
+            "location": "/2016-01-14/#the-seven-stages-of-action", 
+            "text": "forming the goal (e.g. thirsty, going to get something to drink)  forming the intention (e.g. get a soda)  specifying the action (e.g. decide to buy from vending machine)  executing the action (e.g. enter number to get drink)  perceiving the state of the world (e.g. machine gave cue something is happening)  interpreting the state of the world (e.g. realize the clunking is a drink falling)  evaluating the outcome (e.g. deciding if user got the correct drink)", 
+            "title": "The Seven Stages of Action"
+        }, 
+        {
+            "location": "/2016-01-14/#excecution", 
+            "text": "The  execution stages  depend on the user's understanding of the system's functionality and how to access that functionality. \nThe  gulf of execution  is the difference between the intentions of the person and the perceived, allowable actions, (i.e. do the actions provided by the system match those intended by the person?).", 
+            "title": "Excecution"
+        }, 
+        {
+            "location": "/2016-01-14/#evaluation", 
+            "text": "The  evaluation stages  depend on the user correctly understanding the system's state. \nThe  gulf of evaluation  is the amount of effort the user must exert to interpret the system and determine how well the expectation and intentions have been met.", 
+            "title": "Evaluation"
+        }, 
+        {
+            "location": "/2016-01-14/#the-seven-stages-of-action-as-design-aids", 
+            "text": "How easily can one:    determine the function of the device?   tell what actions are possible?   determine mapping from intention to physical movement?   perform the action?   tell if the system is in a desired state?   determine mapping from system state to interpretation?   tell what state the system is in?", 
+            "title": "The Seven Stages of Action as Design Aids"
+        }, 
+        {
+            "location": "/2016-01-14/#normans-principles-of-design-for-understandability-and-usability", 
+            "text": "Provide a good conceptual model, taking advantage of  affordances     constraints .  Make things visible\u2026 \nThe principle of mapping: natural mappings lead to immediate understanding \nThe principle of feedback: send back to the user information about what action has actually been done    It generally takes 5 or 6 attempts to get something right, a new product will sink or swim in 1 or 2 attempts (e.g. voice messages on cameras and pop machines)", 
+            "title": "Norman\u2019s Principles of Design for Understandability and Usability"
+        }, 
+        {
+            "location": "/2016-01-14/#conceptual-models", 
+            "text": "A  conceptual model  is the general conceptual framework through which the functionality of an object is presented. A conceptual model is a description of the proposed system in terms of a set of integrated ideas and concepts about what it should do, behave and look like, that will be understandable by the users in the manner intended. A good conceptual model allows users to  predict the effects of their actions .    The  system image  describes the physical structure that has been built \ni.e. the physical characteristics of the application itself (look and feel). \nThe designer communicates their design model using the system image and any documentation that goes with it. The  user's conceptual model  is developed through interacting with the system and by reading any accompanying documentation.", 
+            "title": "Conceptual models"
+        }, 
+        {
+            "location": "/2016-01-14/#models-based-on-activities", 
+            "text": "", 
+            "title": "Models Based on Activities"
+        }, 
+        {
+            "location": "/2016-01-14/#giving-instructions", 
+            "text": "User's give instructions to computer (e.g. tell time, save a file)  Benefit is that is provides quick and efficient interations  Good for repetitive kinds of actions", 
+            "title": "Giving Instructions"
+        }, 
+        {
+            "location": "/2016-01-14/#conversing", 
+            "text": "Underlying model of having a conversation with another human  Range of simple voice recognition menu-driven systems to complex dialogues (e.g. Clippy, Siri)  Allows users, especially novices to ineract in a comfortable way that's more familiar", 
+            "title": "Conversing"
+        }, 
+        {
+            "location": "/2016-01-14/#manipulating", 
+            "text": "Draging, selecting, opening, closing and zooming  Exploit user's knowledge of how they move and manipulate in the physical world  Continuous representation of objects and actions of interest  Physical actions and button pressing instead of issuing commands with complex syntax  Rapid reversible actions with immediate feedback on object of interest", 
+            "title": "Manipulating"
+        }, 
+        {
+            "location": "/2016-01-14/#advantages", 
+            "text": "Novices can learn the basic functionality quickly  Experienced users can work extremely rapidly to carry out a wide range of tasks, even defining new functions   Intermittent users can retain operational concepts over time  Error messages rarely needed  Users can immediately see if their actions are furthering their goals and if not do something else  Users experience less anxiety  Users gain confidence and mastery and feel in control", 
+            "title": "Advantages:"
+        }, 
+        {
+            "location": "/2016-01-14/#disadvantages", 
+            "text": "Some people take the metaphor of direct manipulation too literally  Not all tasks can be described by objects and not all actions can be done directly  Some tasks are better achieved through delegating (e.g. spell checking)  Can become screen space \u2018gobblers\u2019  Moving a mouse around the screen can be slower than pressing function keys to do same actions", 
+            "title": "Disadvantages"
+        }, 
+        {
+            "location": "/2016-01-14/#exploring", 
+            "text": "Similar to how people browse information with existing media (e.g. newspapers, magazines, libraries, pamphlets)  Information is structured to allow flexibility in way user is able to search for information", 
+            "title": "Exploring"
+        }, 
+        {
+            "location": "/2016-01-14/#which-conceptual-model-is-best", 
+            "text": "Direct manipulation is good for \u2018doing\u2019 types of tasks, e.g. designing, drawing, flying, driving, sizing windows. \nIssuing instructions is good for repetitive tasks (e.g. spell-checking, file management). \nHaving a conversation is good for children, computer-phobic, disabled users and specialized applications (e.g. phone services). \nHybrid conceptual models are often employed, where different ways of carrying out the same actions is supported at the interface - but can take longer to learn.", 
+            "title": "Which Conceptual Model is Best"
+        }, 
+        {
+            "location": "/2016-01-14/#interface-metaphors", 
+            "text": "Interface designed to be similar to a physical entity but also has own properties (e.g. desktop metaphor, web portals). \nCan be based on activity, object or a combination of both. \nExploit user\u2019s familiar knowledge, helping them to understand \u2018the unfamiliar\u2019. \nConjures up the essence of the unfamiliar activity, enabling users to leverage of this to understand more aspects of the unfamiliar functionality.", 
+            "title": "Interface Metaphors"
+        }, 
+        {
+            "location": "/2016-01-14/#advantages_1", 
+            "text": "Makes learning new systems easier  Helps users understand the underlying conceptual model  Can be very innovative and enable the realm of computers and their applications to be made more accessible", 
+            "title": "Advantages"
+        }, 
+        {
+            "location": "/2016-01-14/#disadvantages_1", 
+            "text": "Break conventional and cultural rules (e.g. recycle bin placed on desktop)  Can constrain designers in the way they conceptualize a problem space  Conflict with design principles  Forces users to only understand the system in terms of the metaphor  Designers can inadvertently use bad existing designs and transfer the bad parts over  Limits designers\u2019 imagination in coming up with new conceptual models", 
+            "title": "Disadvantages"
         }, 
         {
             "location": "/2016-01-14/#assignments", 
@@ -97,13 +252,88 @@
         }, 
         {
             "location": "/2016-01-18/#seng-310-lecture-5", 
-            "text": "17 January 2015", 
+            "text": "", 
             "title": "SENG 310 - Lecture 5"
         }, 
         {
+            "location": "/2016-01-18/#17-january-2015", 
+            "text": "", 
+            "title": "17 January 2015"
+        }, 
+        {
             "location": "/2016-01-18/#collecting-and-analyzing-data", 
-            "text": "Objectives  Hypothesis  Methods  Conduct  Synthesis   Collecting Data from Users  Important concerns when collecting data   Study designs, pitfalls  Ethics   Key techniques   Interview  Surveys  Observation, Ethnography  Web Analytics   Need to know what the questions are, need to be designed with what data needs to be collected in mind.  How will the data be analysed. How will the participants be required in an ethical manner.  Triangulate the data - Questions: Who, what where when, why, how. Have they been answered before?  Hypothesis   Attitude-related hypothesis  Behaviour-related hypothesis  Feature-related hypothesis   Types of Data   Video? Audio?  Existing artifacts?  Quantitative versus Qualitative...   Challenges with different types of data?   How will you analyze your data?  When do you have enough?   Ethics   Needs to be consent  Inform about process, amount of time  Participants should be over 18  Should be no power-over relationships  Should be no risk to participants  Participants should be able to withdraw at any point  Should inform participants if their data is anonymous or not  Should be stored securely  Should hide personal information   Interviews   Unstructured - Open-ended questions (Can be insightful but not replicable)  Structured - Tightly scripted (replicable but not open to emergent findings)  Semi-Structured - Guided by a script and open ended questions (insightful and replicable, but hard to do)  Focus Groups - Group interview (need to facilitator)   Interview guide:   Introduce yourself    Brief description and goal of the study and length of interview    Basic demographics or factual questions (so you can interpret answers in context)  A couple ice-breaking questions  Key questions you care about  How you will conclude, do they have questions, anything to add?   Example semi-structured interview questions:   Which software tools do you use daily to communicate with others on your team?  When is the last time you used these tools? Which features did you use?  How did you learn about those features?  Why do you find this tool easy (or hard) to use?  \u201cTell me more about...\u201d   \u201cDo you do that often...\u201d   \u201cWhy is that\u201d   What not to ask or do   Would some feature be useful to you? (bias)  Why is the tool difficult to use?  Avoid questions with yes/no answers  Don't ask long or compound questions  Avoid jargon  Rush in to fill pauses   Surveys   Can be given to many participants  Closed questions are easy to analyze  Need to pilot it several times  Knowing how to sample can be difficult (avoiding biases)  Question order matters  Questions can be asked with bias  Response rates will vary (20% to 40% is typically pretty good)   Survey Question Types   True/False  Multiple Choice  Multiple Response  Fill in the Blank  Work Bank  Matching Drag and Drop  Matching Drop Down  Sequence Drag and Drop  Sequence Drop Down  Numeric  Hot Spot   Survey Pitfalls   Failing to explain purpose  Using jargon, long questions, too many questions  Asking for sensitive information up front, failing to be anonymous  Not showing progress indicators  Failure to have some open-ended questions  Having a survey that is too long  Not sending out a reminder to complete it  Failing to pilot it in advance   Observing Users  Direct:  Can be in a controlled setting, or in the field  Indirect:  Diary studies, interaction logging, video/audio trails  Ethnography  ==Ethnography:== is observing people's behaviour in their own environments so that you can get a holistic understanding of their world - one that you can intuit on a deeper personal level.   Ethnographers immerse themselves in the environment  Can reveal the unknown, reveal context (semantics of living\"  Can be conducted over long periods of time  Can lead to compelling solutions  Online or virtual ethnography is another option (watch of ethics, deception!)  Analysis can be difficult (too much data)", 
+            "text": "Objectives  Hypothesis  Methods  Conduct  Synthesis", 
             "title": "Collecting and Analyzing Data"
+        }, 
+        {
+            "location": "/2016-01-18/#collecting-data-from-users", 
+            "text": "Important concerns when collecting data   Study designs, pitfalls  Ethics", 
+            "title": "Collecting Data from Users"
+        }, 
+        {
+            "location": "/2016-01-18/#key-techniques", 
+            "text": "Interview  Surveys  Observation, Ethnography  Web Analytics   Need to know what the questions are, need to be designed with what data needs to be collected in mind.  How will the data be analysed. How will the participants be required in an ethical manner.  Triangulate the data - Questions: Who, what where when, why, how. Have they been answered before?", 
+            "title": "Key techniques"
+        }, 
+        {
+            "location": "/2016-01-18/#hypothesis", 
+            "text": "Attitude-related hypothesis  Behaviour-related hypothesis  Feature-related hypothesis", 
+            "title": "Hypothesis"
+        }, 
+        {
+            "location": "/2016-01-18/#types-of-data", 
+            "text": "Video? Audio?  Existing artifacts?  Quantitative versus Qualitative...   Challenges with different types of data?   How will you analyze your data?  When do you have enough?", 
+            "title": "Types of Data"
+        }, 
+        {
+            "location": "/2016-01-18/#ethics", 
+            "text": "Needs to be consent  Inform about process, amount of time  Participants should be over 18  Should be no power-over relationships  Should be no risk to participants  Participants should be able to withdraw at any point  Should inform participants if their data is anonymous or not  Should be stored securely  Should hide personal information", 
+            "title": "Ethics"
+        }, 
+        {
+            "location": "/2016-01-18/#interviews", 
+            "text": "Unstructured - Open-ended questions (Can be insightful but not replicable)  Structured - Tightly scripted (replicable but not open to emergent findings)  Semi-Structured - Guided by a script and open ended questions (insightful and replicable, but hard to do)  Focus Groups - Group interview (need to facilitator)", 
+            "title": "Interviews"
+        }, 
+        {
+            "location": "/2016-01-18/#interview-guide", 
+            "text": "Introduce yourself    Brief description and goal of the study and length of interview    Basic demographics or factual questions (so you can interpret answers in context)  A couple ice-breaking questions  Key questions you care about  How you will conclude, do they have questions, anything to add?", 
+            "title": "Interview guide:"
+        }, 
+        {
+            "location": "/2016-01-18/#example-semi-structured-interview-questions", 
+            "text": "Which software tools do you use daily to communicate with others on your team?  When is the last time you used these tools? Which features did you use?  How did you learn about those features?  Why do you find this tool easy (or hard) to use?  \u201cTell me more about...\u201d   \u201cDo you do that often...\u201d   \u201cWhy is that\u201d", 
+            "title": "Example semi-structured interview questions:"
+        }, 
+        {
+            "location": "/2016-01-18/#what-not-to-ask-or-do", 
+            "text": "Would some feature be useful to you? (bias)  Why is the tool difficult to use?  Avoid questions with yes/no answers  Don't ask long or compound questions  Avoid jargon  Rush in to fill pauses", 
+            "title": "What not to ask or do"
+        }, 
+        {
+            "location": "/2016-01-18/#surveys", 
+            "text": "Can be given to many participants  Closed questions are easy to analyze  Need to pilot it several times  Knowing how to sample can be difficult (avoiding biases)  Question order matters  Questions can be asked with bias  Response rates will vary (20% to 40% is typically pretty good)", 
+            "title": "Surveys"
+        }, 
+        {
+            "location": "/2016-01-18/#survey-question-types", 
+            "text": "True/False  Multiple Choice  Multiple Response  Fill in the Blank  Work Bank  Matching Drag and Drop  Matching Drop Down  Sequence Drag and Drop  Sequence Drop Down  Numeric  Hot Spot", 
+            "title": "Survey Question Types"
+        }, 
+        {
+            "location": "/2016-01-18/#survey-pitfalls", 
+            "text": "Failing to explain purpose  Using jargon, long questions, too many questions  Asking for sensitive information up front, failing to be anonymous  Not showing progress indicators  Failure to have some open-ended questions  Having a survey that is too long  Not sending out a reminder to complete it  Failing to pilot it in advance", 
+            "title": "Survey Pitfalls"
+        }, 
+        {
+            "location": "/2016-01-18/#observing-users", 
+            "text": "Direct:  Can be in a controlled setting, or in the field  Indirect:  Diary studies, interaction logging, video/audio trails", 
+            "title": "Observing Users"
+        }, 
+        {
+            "location": "/2016-01-18/#ethnography", 
+            "text": "==Ethnography:== is observing people's behaviour in their own environments so that you can get a holistic understanding of their world - one that you can intuit on a deeper personal level.   Ethnographers immerse themselves in the environment  Can reveal the unknown, reveal context (semantics of living\"  Can be conducted over long periods of time  Can lead to compelling solutions  Online or virtual ethnography is another option (watch of ethics, deception!)  Analysis can be difficult (too much data)", 
+            "title": "Ethnography"
         }, 
         {
             "location": "/2016-01-18/#assignments", 
