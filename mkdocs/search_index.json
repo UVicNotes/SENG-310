@@ -339,6 +339,311 @@
             "location": "/2016-01-18/#assignments", 
             "text": "None", 
             "title": "Assignments"
+        }, 
+        {
+            "location": "/2016-01-21/", 
+            "text": "SENG 310 - Lecture 6\n\n\n21 January 2015\n\n\nEthnography\n\n\nPrevious Notes:\n\n\n==Ethnography:== is observing people's behaviour in their own environments so that you can get a holistic understanding of their world - one that you can intuit on a deeper personal level.\n\n\n\n\nEthnographers immerse themselves in the environment\n\n\nCan reveal the unknown, reveal context (semantics of living\"\n\n\nCan be conducted over long periods of time\n\n\nCan lead to compelling solutions\n\n\nOnline or virtual ethnography is another option (watch of ethics, deception!)\n\n\nAnalysis can be difficult (too much data)\n\n\n\n\nNew Notes:\n\n\n\n\nThe person: Who?\n\n\nThe place: Where?\n\n\nThe thing: What?\n\n\nSpace: Physical space and how it's laid out?\n\n\nActors: Names, details of people involved\n\n\nActivities: What are the actors doing?\n\n\nObjects: What physical objects are present, such as furniture\n\n\nActs: What are the specific individual actions\n\n\nEvents: Is what you observe part of the special event?\n\n\nTime: What is the sequence of events?\n\n\nGoals: What are the actors trying to accomplish?\n\n\nFeelings: What is the mood of the group and of individuals?\n\n\n\n\nData\n\n\nQuantitative\n\n\nQuantitative data - expressed as numbers\n\nQuantitative analysis - numerical methods to ascertain size, magnitude, amount  \n\n\nBe careful not to mislead with the numbers. Use data visualization and analytics.  \n\n\nUse Spreadsheets, R or SPSS for data analysis.\n\n\nQualitative\n\n\nQualitative data - can't measure in numbers\n\nQualitative analysis - expresses the natural of elements and is represented as themes, patterns, stories\n\n\nWhat do do:\n\n\n\n\nTranscribe data\n\n\nCut the transcriptions into chunks\n\n\nCluster, sort look for themes\n\n\nGroup themes\n\n\nLook for needs, priorities, behaviours, problems, ideas, critical incidences, etc.\n\n\nLook for recurring patterns or themes\n\n\nEmergent from data dependent on observation framework if used\n\n\n\n\nBasing data analysis around theoretical frameworks provides further insight\n\n\nThree such frameworks are:\n\n\n\n\nGrounded Theory\n\n\nDistributed Cognition\n\n\nActivity Theory\n\n\n\n\nTriangulation\n\n\nUse multiple methods, each has benefits and limitations. Offers different perspectives on the questions being asked\n\n\nSynthesizing Findings\n\n\n\n\n\"What a I learning?\"\n\n\n\"Does what I've learning change how we should frame the original research objective?\"\n\n\n\"Did we prove or disprove our hypotheses?\"\n\n\n\"Is there a pattern in the data that suggests new design considerations?\"\n\n\n\"What are the implications of what I'm designing?\"\n\n\n\"What outputs are most important for communicating what we've discovered?\" \n\n\n\n\nPresenting Findings\n\n\n\n\nOnly make claims that your data can support\n\n\nThe best way to present your findings depend on the audience, the purpose, and the data gathering and analysis undertaken\n\n\nGraphical representations\n\n\nOther techniques are \n\n\nUML\n\n\nUsing stories\n\n\nSummarize the findings\n\n\n\n\n\n\n\n\nRequirements\n\n\n$\\leftrightarrow$ Design $\\leftrightarrow$ User testing and evaluation $\\leftrightarrow$ Prototyping $\\leftrightarrow$\n\n\nInformation to gather:\n\n\n\n\nDomain knowledge, users, user characteristics, ... \n\n\nTasks and task characteristics\n\n\nPhysical environment, social environment, organizational environment, availability of user support, ...\n\n\nUsability goals, constraints, trade-offs, ...\n\n\n\n\nPersonas:\n Defines who the story is about. This main character has attitudes, motivations, goals, pain points, etc. Use multiple specific imaginary examples of real users of different types.\n\n\nScenarios:\n Defines where, when, and how the story of the persona takes place. The scenario is a narrative that describes how the persona behaves as a sequence of events.\n\n\nGoals:\n Defines what the persona wants or needs to fulfill. The goal is the motivation of of why the persona is taking actions. When that goal is reached, the scenario ends.  \n\n\nPersonas\n\n\nExample Persona 1:\n Mary is an 18 year old first year English major. She has limited computer experience, but regularly uses a PC to contact friends using email or Facebook. Mary reads many novels, often on the bus or in bed. She often writes notes in the margins. Although she really likes the format of paper books, Mary would like to use an eBook device because many digital books are free.\n\n\nExample Persona 2:\n Felix is 13 years old. He gets an allowance every week but spends it out with his friends, and there is usually not anything left over to bank. He often gets money from his grandparents and uncles for his birthday and this is always deposited to his account. He saves this for more expensive purchases; for example, he likes to buy video games. Plus he likes to buy trendy clothes. Felix\u2019s account allows him to withdraw small amounts of\nmoney from ATMs.\n\n\nTask analysis\n\n\nAn activity designers use to gain an understanding of what a system must do to support users in their goals and tasks using:oObservation, interviews, contextual inquiry, participatory design.\n\n\nCharacteristics:\n\n\n\n\nVariability from one time to the next Regularity\n\n\nKnowledge \n skills required Physical environment\n\n\nTime critical?\n\n\nSafety hazards\n\n\nAlone vs. group?\n\n\nOther simultaneous tasks\n\n\n\n\nHierarchical Task Analysis (HTA)\n\n\nBreak a task into smaller and smaller subtasks, until you reach the smallest unit of work\n\n\nNeed to ask questions:\n\n\n\n\nConsider writing letter example\n\n\nWhere is the task performed?\n\n\nHow often is it performed?\n\n\nWhat are its time and resource constraints? How is the task learned?\n\n\nWhat can go wrong?\n\n\nWho else is involved in the task?\n\n\nAlso important to consider sequences of tasks (may be different for same set of tasks)\n\n\n\n\nTask Scenario\n\n\n\n\nA personal narrative story identifying a task, with specific details\n\n\nMay make use of a persona\n\n\nOne specific task, not a whole series of tasks\n\n\nShows context of use\n\n\nUsually does not say anything about the system interface\n\n\n\n\nUse Case\n\n\nLike a scenario, but describes interface details and specific order to subtasks. Steps through a task for a given interface, can list all the alternate possibilities (alternate courses)\n\n\nUse case for shared calendar example\n\n\n\n\nThe user chooses the option to arrange a meeting. 2. The system prompts user for the attendees.\n\n\nThe user types in a list of names.\n\n\nThe system checks that the list is valid.\n\n\nThe system prompts the user for constraints. 6. The user types in meeting constraints.\n\n\nThe system searches the calendars for a date that satisfies the constraints.\n\n\nThe system displays a list of potential dates.\n\n\nThe user chooses one of the dates.\n\n\nThe system writes the meeting into the calendar.\n\n\nThe system emails all the meeting participants informing them of them appointment\n\n\n\n\nScenarios vs Use cases\n\n\n\n\nScenarios help before you start designing \n also for evaluation\n\n\nHelp you clearly define tasks, avoid making assumptions about how interface will operate\n\n\nEvaluate whether the interface will work for a particular user in a particular instance\n\n\nUse cases help once you have a design\n\n\nEvaluate whether a design will work for all possible cases (later: cognitive walk though technique)\n\n\n\n\nContextual Design\n\n\nAn approach for defining software and hardware systems that collects multiple customer-centered techniques into an integrated design process. Focuses on the solutions rather than products using an invisible approach/technology. People need tools that integrate well with their everyday tools, work practices.\n\n\n\n\nReveal how people really work  \n\n\nMake explicit and public, things that good designers do implicitly  \n\n\nLead to a systemic response, not a list of features, keeps user work coherent\n\n\n\n\nChallenges\n\n\n\n\nLarge organizations can isolate developers from customers\n\n\nWork is so complex, that users oversimplify when they describe their work (build abstractions)\n\n\nDesign depends on being able to see the implications of data (seeing the data is not enough!)\n\n\n\n\nGathering Customer Data\n\n\nMarketing:\n\n\n\n\nMarketing doesn\u2019t provide design data  \n\n\nMarketing needs to know what people will buy and how people make buying decisions\n\n\nMarketing needs to characterize and scope the market\n\n\nMarketing techniques tend to be quantitative (e.g. how much money do you want to spend?)\n\n\n\n\nDesigners:\n\n\n\n\nDesigners need to understand what will help people do their work better and will fit into their lives and culture \n\n\nDesigners need to describe the structure of its work \n\n\nDesigners tend to ask more qualitative questions (e.g. how do you use different parts of the letter?)\n\n\n\n\nAssignments\n\n\nAssignment #1 due Monday", 
+            "title": "2016 01 21"
+        }, 
+        {
+            "location": "/2016-01-21/#seng-310-lecture-6", 
+            "text": "", 
+            "title": "SENG 310 - Lecture 6"
+        }, 
+        {
+            "location": "/2016-01-21/#21-january-2015", 
+            "text": "", 
+            "title": "21 January 2015"
+        }, 
+        {
+            "location": "/2016-01-21/#ethnography", 
+            "text": "Previous Notes:  ==Ethnography:== is observing people's behaviour in their own environments so that you can get a holistic understanding of their world - one that you can intuit on a deeper personal level.   Ethnographers immerse themselves in the environment  Can reveal the unknown, reveal context (semantics of living\"  Can be conducted over long periods of time  Can lead to compelling solutions  Online or virtual ethnography is another option (watch of ethics, deception!)  Analysis can be difficult (too much data)   New Notes:   The person: Who?  The place: Where?  The thing: What?  Space: Physical space and how it's laid out?  Actors: Names, details of people involved  Activities: What are the actors doing?  Objects: What physical objects are present, such as furniture  Acts: What are the specific individual actions  Events: Is what you observe part of the special event?  Time: What is the sequence of events?  Goals: What are the actors trying to accomplish?  Feelings: What is the mood of the group and of individuals?", 
+            "title": "Ethnography"
+        }, 
+        {
+            "location": "/2016-01-21/#data", 
+            "text": "", 
+            "title": "Data"
+        }, 
+        {
+            "location": "/2016-01-21/#quantitative", 
+            "text": "Quantitative data - expressed as numbers \nQuantitative analysis - numerical methods to ascertain size, magnitude, amount    Be careful not to mislead with the numbers. Use data visualization and analytics.    Use Spreadsheets, R or SPSS for data analysis.", 
+            "title": "Quantitative"
+        }, 
+        {
+            "location": "/2016-01-21/#qualitative", 
+            "text": "Qualitative data - can't measure in numbers \nQualitative analysis - expresses the natural of elements and is represented as themes, patterns, stories  What do do:   Transcribe data  Cut the transcriptions into chunks  Cluster, sort look for themes  Group themes  Look for needs, priorities, behaviours, problems, ideas, critical incidences, etc.  Look for recurring patterns or themes  Emergent from data dependent on observation framework if used   Basing data analysis around theoretical frameworks provides further insight  Three such frameworks are:   Grounded Theory  Distributed Cognition  Activity Theory", 
+            "title": "Qualitative"
+        }, 
+        {
+            "location": "/2016-01-21/#triangulation", 
+            "text": "Use multiple methods, each has benefits and limitations. Offers different perspectives on the questions being asked", 
+            "title": "Triangulation"
+        }, 
+        {
+            "location": "/2016-01-21/#synthesizing-findings", 
+            "text": "\"What a I learning?\"  \"Does what I've learning change how we should frame the original research objective?\"  \"Did we prove or disprove our hypotheses?\"  \"Is there a pattern in the data that suggests new design considerations?\"  \"What are the implications of what I'm designing?\"  \"What outputs are most important for communicating what we've discovered?\"", 
+            "title": "Synthesizing Findings"
+        }, 
+        {
+            "location": "/2016-01-21/#presenting-findings", 
+            "text": "Only make claims that your data can support  The best way to present your findings depend on the audience, the purpose, and the data gathering and analysis undertaken  Graphical representations  Other techniques are   UML  Using stories  Summarize the findings", 
+            "title": "Presenting Findings"
+        }, 
+        {
+            "location": "/2016-01-21/#requirements", 
+            "text": "$\\leftrightarrow$ Design $\\leftrightarrow$ User testing and evaluation $\\leftrightarrow$ Prototyping $\\leftrightarrow$  Information to gather:   Domain knowledge, users, user characteristics, ...   Tasks and task characteristics  Physical environment, social environment, organizational environment, availability of user support, ...  Usability goals, constraints, trade-offs, ...   Personas:  Defines who the story is about. This main character has attitudes, motivations, goals, pain points, etc. Use multiple specific imaginary examples of real users of different types.  Scenarios:  Defines where, when, and how the story of the persona takes place. The scenario is a narrative that describes how the persona behaves as a sequence of events.  Goals:  Defines what the persona wants or needs to fulfill. The goal is the motivation of of why the persona is taking actions. When that goal is reached, the scenario ends.", 
+            "title": "Requirements"
+        }, 
+        {
+            "location": "/2016-01-21/#personas", 
+            "text": "Example Persona 1:  Mary is an 18 year old first year English major. She has limited computer experience, but regularly uses a PC to contact friends using email or Facebook. Mary reads many novels, often on the bus or in bed. She often writes notes in the margins. Although she really likes the format of paper books, Mary would like to use an eBook device because many digital books are free.  Example Persona 2:  Felix is 13 years old. He gets an allowance every week but spends it out with his friends, and there is usually not anything left over to bank. He often gets money from his grandparents and uncles for his birthday and this is always deposited to his account. He saves this for more expensive purchases; for example, he likes to buy video games. Plus he likes to buy trendy clothes. Felix\u2019s account allows him to withdraw small amounts of\nmoney from ATMs.", 
+            "title": "Personas"
+        }, 
+        {
+            "location": "/2016-01-21/#task-analysis", 
+            "text": "An activity designers use to gain an understanding of what a system must do to support users in their goals and tasks using:oObservation, interviews, contextual inquiry, participatory design.  Characteristics:   Variability from one time to the next Regularity  Knowledge   skills required Physical environment  Time critical?  Safety hazards  Alone vs. group?  Other simultaneous tasks", 
+            "title": "Task analysis"
+        }, 
+        {
+            "location": "/2016-01-21/#hierarchical-task-analysis-hta", 
+            "text": "Break a task into smaller and smaller subtasks, until you reach the smallest unit of work  Need to ask questions:   Consider writing letter example  Where is the task performed?  How often is it performed?  What are its time and resource constraints? How is the task learned?  What can go wrong?  Who else is involved in the task?  Also important to consider sequences of tasks (may be different for same set of tasks)", 
+            "title": "Hierarchical Task Analysis (HTA)"
+        }, 
+        {
+            "location": "/2016-01-21/#task-scenario", 
+            "text": "A personal narrative story identifying a task, with specific details  May make use of a persona  One specific task, not a whole series of tasks  Shows context of use  Usually does not say anything about the system interface", 
+            "title": "Task Scenario"
+        }, 
+        {
+            "location": "/2016-01-21/#use-case", 
+            "text": "Like a scenario, but describes interface details and specific order to subtasks. Steps through a task for a given interface, can list all the alternate possibilities (alternate courses)  Use case for shared calendar example   The user chooses the option to arrange a meeting. 2. The system prompts user for the attendees.  The user types in a list of names.  The system checks that the list is valid.  The system prompts the user for constraints. 6. The user types in meeting constraints.  The system searches the calendars for a date that satisfies the constraints.  The system displays a list of potential dates.  The user chooses one of the dates.  The system writes the meeting into the calendar.  The system emails all the meeting participants informing them of them appointment", 
+            "title": "Use Case"
+        }, 
+        {
+            "location": "/2016-01-21/#scenarios-vs-use-cases", 
+            "text": "Scenarios help before you start designing   also for evaluation  Help you clearly define tasks, avoid making assumptions about how interface will operate  Evaluate whether the interface will work for a particular user in a particular instance  Use cases help once you have a design  Evaluate whether a design will work for all possible cases (later: cognitive walk though technique)", 
+            "title": "Scenarios vs Use cases"
+        }, 
+        {
+            "location": "/2016-01-21/#contextual-design", 
+            "text": "An approach for defining software and hardware systems that collects multiple customer-centered techniques into an integrated design process. Focuses on the solutions rather than products using an invisible approach/technology. People need tools that integrate well with their everyday tools, work practices.   Reveal how people really work    Make explicit and public, things that good designers do implicitly    Lead to a systemic response, not a list of features, keeps user work coherent", 
+            "title": "Contextual Design"
+        }, 
+        {
+            "location": "/2016-01-21/#challenges", 
+            "text": "Large organizations can isolate developers from customers  Work is so complex, that users oversimplify when they describe their work (build abstractions)  Design depends on being able to see the implications of data (seeing the data is not enough!)", 
+            "title": "Challenges"
+        }, 
+        {
+            "location": "/2016-01-21/#gathering-customer-data", 
+            "text": "Marketing:   Marketing doesn\u2019t provide design data    Marketing needs to know what people will buy and how people make buying decisions  Marketing needs to characterize and scope the market  Marketing techniques tend to be quantitative (e.g. how much money do you want to spend?)   Designers:   Designers need to understand what will help people do their work better and will fit into their lives and culture   Designers need to describe the structure of its work   Designers tend to ask more qualitative questions (e.g. how do you use different parts of the letter?)", 
+            "title": "Gathering Customer Data"
+        }, 
+        {
+            "location": "/2016-01-21/#assignments", 
+            "text": "Assignment #1 due Monday", 
+            "title": "Assignments"
+        }, 
+        {
+            "location": "/2016-01-25/", 
+            "text": "SENG 310 - Lecture 7\n\n\n25 January 2015\n\n\nContextual Design (Cont'd)\n\n\nOverview\n\n\n\n\nContextual Inquiry\n\n\nWork modelling\n\n\nConsolidation\n\n\nWork redesign\n\n\nUser environment design \n\n\nMock-up and test with customers \n\n\nPutting into practice\n\n\n\n\nSteps:\n\n\nContextual Inquiry\n\n\nTalk to the customers while they work and observe the work while it happens to gather detailed design data\n\n\n\n\nUnderstand the customers, their needs, desires and approach to their work context\n\n\nOngoing experience rather than summary experience\n\n\nConcrete data as opposed to abstract data\n\n\nStarts with one-on-one interviews in their workplace (as they work), followed by team interpretation sessions\n\n\nFollowed by \u201cThe Master/Apprentice Model\u201d\n\n\nLeading to a \u201cpartnership\u201d relationship\n\n\nAvoid other relationships, such as expert/novice, interviewer/interviewee, guest/host\n\n\n\n\nThe conventional interview:\n\nApprox. 15 mins to do introductions, gain\npermissions and collect summary data on the domain\n\n\nThe transition:\n\nState the new rules for the contextual interview\n\n30 seconds well spent\n\n\nThe contextual interview:\n\nCustomer starts work task, you observe and interpret as an apprentice, asking questions\n\nCopious notes should be taken\n\nMay have to tag along\n\nFocus on tasks is crucial  \n\n\nThe wrap-up:\n\nSummarize and interpret (don\u2019t repeat verbatim) your understanding, this gives the customer a chance to correct or add to your understanding (allow 15 mins)\n\n\nInterview Interpretation:\n  \n\n\n\n\nInterpretation sessions let every team member experience all interviews  \n\n\nDifferent roles (everyone gets a job to keep them involved): \n\n\nThe interviewer\n\n\nWork modellers (write while you listen)\n\n\nThe recorder (done online visible to all)\n\n\nParticipants (rest of the team, ask questions, listen, share their own insight)\n\n\nThe moderator (stage manager, keeps everyone busy and on topic)\n\n\nThe rat hole watcher (neutralizes people problems, keeps things on track, everyone can play this role)\n\n\n\n\n\n\nInterpret interviews within 48 hours!\n\n\n\n\nWork Modeling\n\n\nProvide a concrete representation of the work of each customer interviewed.\n\n\n\n\nRepresent people\u2019s work in diagrams\n\n\nWork models provide a concrete representation of the work of each customer interviewed\n\n\n\n\nFlow model:\n\nDefines how work is broken up across people and how people coordinate to ensure the whole job gets done\n\nProvides a bird\u2019s eye view of the organization\n\n\nSequence model:\n\nWork tasks are ordered, unfolding over time Need to understand the customer\u2019s intent\n\n\nArtifact model:\n\nThe things people create, use or modify in the course of doing work\n\n\nCultural model:\n\nExpectations, desires, policies, values and the whole approach people take to their work\n\n\nPhysical model:\n\nOrganization of space, grouping of people, movement\n\n\nConsolidation\n\n\nPull individual diagrams together to see the work of all customers (affinity diagrams)\n\n\n\n\nPull individual diagrams together to see the work of all customers\n\n\nDesign for the whole customer population\n\n\nDone using an Affinity Diagram \n\n\na wall sized hierarchical diagram showing the scope of issues in the work domain\n\n\n\n\n\n\nAnd through building Consolidated work models\n\n\nshowing the underlying pattern and structure of the work the design will address\n\n\n\n\n\n\n\n\nWork redesign\n\n\nCreate a corporate response to the customers\u2019 issues (improve work practices rather than provide technical solutions)\n\n\n\n\nTeam focuses on how to improve work practices rather than simply on deploying a new (or improved) technology\n\n\nThis may (and perhaps should) affect organizational structure and procedures, as well as drive system definition\n\n\nUse of storyboards to show how work models are accounted for\n\n\n\n\nUser environment design\n\n\nShows how each part of the system supports the user\u2019s work, exactly what functions are available in each part, and how they are connected to other parts of the system. But this structure should not be tied to any particular UI.\n\n\n\n\nA floor plan which shows the parts of the system and how they are related to each other from the user\u2019s point of view\n\n\nNot tied to any particular UI\n\n\n\n\nMock-up and test with customers\n\n\nUse paper based prototypes to support continuous iteration of the new system between the users and designers.\n\n\n\n\nUse paper prototypes, supports more continuous iteration\n\n\nUse it to test your ideas and iterate\n\n\n\n\nPutting into practice\n\n\nTailor contextual design to your organization\n\n\n\n\nCD will probably need to be tailored to each organization\n\n\nOvercoming resistance\n\n\n\n\nPrototyping\n\n\nAllows team to elicit, clarify, validate, negotiate requirements, and choose between design alternatives. Checks feasibility with users and stakeholders, and allows them to contribute to design. Allows user to test ideas and usefulness of application.\n\n\nShould prototype: \n\n\n\n\nWork flow, task design\n\n\nScreen layouts and information display \n\n\nDifficult, controversial, critical areas\n\n\n\n\nLow fidelity prototypes\n\n\npaper prototypes, storyboards\n\n\n\n\nBrainstorming can be done using cheap mock- ups of the interface (involving a number of common interface items such as icons, menus...)  \n\n\nStoryboards, flipbooks and videos are used to provide mock-ups of interactive sequences and actions  \n\n\nDesign team can perform a cognitive walkthrough (i.e. they can imagine going through the same mental steps as a user would)\n\n\n\n\nAdvantages:\n  \n\n\n\n\n\u201cquick and cheap\u201d to prepare and modify\n\n\nCan be used to brainstorm competing designs \n\n\nUsers can create and modify them \n\n\n\n\nDisadvantages:\n\n\n\n\nTends to focus on high level concepts Hard to envision a dialog\u2019s progression \n\n\nLess compelling\n\n\nHard to detect errors\n\n\n\n\nPaper-based prototypes\n\n\nA paper mock-up of the interface look, feel and functionality:\n\n\n\n\nUsing sketches\n\n\nCardboard mockups\n\n\n\n\nStoryboarding\n\n\n\n\nA series of key frames are used to get the idea of a scene (idea originally from film)\n\n\nConsists of sketched snapshots of the interface at particular points in the interaction\n\n\nUsers can evaluate quickly the direction the interface is heading\n\n\nA flipbook can alternatively be created to give the effect of interactions with the interface\n\n\nCard-based\n\n\nIndex cards\n\n\nEach card represents one screen or part of a screen\n\n\nOften used in website development\n\n\n\n\n\n\n\n\nPictive\n\n\n\"plastic interface for collaborative technology initiatives through video exploration\u201d \n\n\n\n\nDesign is multiple layers of sticky notes and plastic overlays (can use stickies to represent icons, menus etc)\n\n\nInteraction is demonstrated by manipulating notes\n\n\nSession can be videotaped for later analysis or for showing to the users\n\n\n\n\nTutorial and Manuals\n\n\n\n\nWrite them in advance of the system\n\n\nA tutorial provides step by step descriptions of interactions with the interface\n\n\nManual provides an in-depth technical description of the interface\n\n\nMay find errors with the system usability if you can\u2019t easily explain how to do certain operations!\n\n\n\n\nMedium fidelity prototypes\n\n\nmore interactive (may use real data)\n\n\nAdvantages:\n  \n\n\n\n\nMore engaging for the end user, provides a limited scenario for the user to try out\n\n\nCan test more subtle design issues\n\n\n\n\nDisadvantages:\n\n\n\n\nUser\u2019s reactions are usually \u201cin the small\u201d; blinds people to major design flaws\n\n\nManagement may think it is real\n\n\nUsers may be reluctant to challenge the design (as it appears to be so \u201cfinal\u201d)\n\n\n\n\nPainting/Drawing packages\n\n\n\n\nDraw each storyboard scene on a computer, easier to change \n\n\nVery thin horizontal prototype\n\n\nDoes not capture the interaction feel\n\n\ne.g., Illustrator\n\n\n\n\nScripted simulations and slide shows\n\n\n\n\nCreated with media tools\n\n\nScene transitions activated by simple user inputs\n\n\nAppears like a real system, but users must follow a set script \n\n\ne.g., HyperCard, Director, Powerpoint, HTML\n\n\n\n\nInterface Builders\n\n\n\n\nTools for letting designers lay out common widgets, requires programming\n\n\nObjects behave as they would under real situations\n\n\nGood for showing look and feel\n\n\nCan create a broader horizontal prototype, vertical functionality added selectively\n\n\ne.g., Balsmiq, invision, UXPin, Frontify\n\n\n\n\nHigh fidelity prototypes\n\n\ninteractive software prototypes, closer to finished product\n\n\n\n\nGetting much closer to the final working system\n\n\nRestricted functionality\n\n\nBroad horizontal prototypes and deep vertical prototypes\n\n\nMay have incomplete functionality\n\n\nMay be a collection of predefined pages \n links\n\n\n\n\nFull prototype:\n contains complete functionality but with lower performance\n\n\nHorizontal prototype:\n displays all or most of the application without going into any depth in any one part (useful for testing overall design concept)\n\n\nVertical prototype:\n carries the user deep into the behaviours of specific parts of the system (useful for testing new design concepts and technology)\n\n\nAdvantages:\n   \n\n\n\n\nShows UI, layout, navigation, look and feel \n\n\nCompelling\n\n\n\n\nDisadvantages:\n\n\n\n\nFinished looking product stifles feedback \n\n\nCan\u2019t be used early in design process\n\n\n\n\nChoosing a Prototyping Approach\n\n\n\n\nwho will create the prototype?\n\n\nhow quickly do you want the prototype?\n\n\ndo you want to turn the prototype into the final product?\n\n\nwhat are your software and hardware constraints?\n\n\n\n\nSummary\n\n\n\n\nUse rapid prototyping techniques\n\n\nLow fidelity for early iterative design\n\n\nHigh fidelity for more thorough testing of later designs\n\n\nUser testing is possible, even with paper prototypes\n\n\n\n\nAssignments\n\n\nNone", 
+            "title": "2016 01 25"
+        }, 
+        {
+            "location": "/2016-01-25/#seng-310-lecture-7", 
+            "text": "", 
+            "title": "SENG 310 - Lecture 7"
+        }, 
+        {
+            "location": "/2016-01-25/#25-january-2015", 
+            "text": "", 
+            "title": "25 January 2015"
+        }, 
+        {
+            "location": "/2016-01-25/#contextual-design-contd", 
+            "text": "", 
+            "title": "Contextual Design (Cont'd)"
+        }, 
+        {
+            "location": "/2016-01-25/#overview", 
+            "text": "Contextual Inquiry  Work modelling  Consolidation  Work redesign  User environment design   Mock-up and test with customers   Putting into practice", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/2016-01-25/#steps", 
+            "text": "", 
+            "title": "Steps:"
+        }, 
+        {
+            "location": "/2016-01-25/#contextual-inquiry", 
+            "text": "Talk to the customers while they work and observe the work while it happens to gather detailed design data   Understand the customers, their needs, desires and approach to their work context  Ongoing experience rather than summary experience  Concrete data as opposed to abstract data  Starts with one-on-one interviews in their workplace (as they work), followed by team interpretation sessions  Followed by \u201cThe Master/Apprentice Model\u201d  Leading to a \u201cpartnership\u201d relationship  Avoid other relationships, such as expert/novice, interviewer/interviewee, guest/host   The conventional interview: \nApprox. 15 mins to do introductions, gain\npermissions and collect summary data on the domain  The transition: \nState the new rules for the contextual interview \n30 seconds well spent  The contextual interview: \nCustomer starts work task, you observe and interpret as an apprentice, asking questions \nCopious notes should be taken \nMay have to tag along \nFocus on tasks is crucial    The wrap-up: \nSummarize and interpret (don\u2019t repeat verbatim) your understanding, this gives the customer a chance to correct or add to your understanding (allow 15 mins)  Interview Interpretation:      Interpretation sessions let every team member experience all interviews    Different roles (everyone gets a job to keep them involved):   The interviewer  Work modellers (write while you listen)  The recorder (done online visible to all)  Participants (rest of the team, ask questions, listen, share their own insight)  The moderator (stage manager, keeps everyone busy and on topic)  The rat hole watcher (neutralizes people problems, keeps things on track, everyone can play this role)    Interpret interviews within 48 hours!", 
+            "title": "Contextual Inquiry"
+        }, 
+        {
+            "location": "/2016-01-25/#work-modeling", 
+            "text": "Provide a concrete representation of the work of each customer interviewed.   Represent people\u2019s work in diagrams  Work models provide a concrete representation of the work of each customer interviewed   Flow model: \nDefines how work is broken up across people and how people coordinate to ensure the whole job gets done \nProvides a bird\u2019s eye view of the organization  Sequence model: \nWork tasks are ordered, unfolding over time Need to understand the customer\u2019s intent  Artifact model: \nThe things people create, use or modify in the course of doing work  Cultural model: \nExpectations, desires, policies, values and the whole approach people take to their work  Physical model: \nOrganization of space, grouping of people, movement", 
+            "title": "Work Modeling"
+        }, 
+        {
+            "location": "/2016-01-25/#consolidation", 
+            "text": "Pull individual diagrams together to see the work of all customers (affinity diagrams)   Pull individual diagrams together to see the work of all customers  Design for the whole customer population  Done using an Affinity Diagram   a wall sized hierarchical diagram showing the scope of issues in the work domain    And through building Consolidated work models  showing the underlying pattern and structure of the work the design will address", 
+            "title": "Consolidation"
+        }, 
+        {
+            "location": "/2016-01-25/#work-redesign", 
+            "text": "Create a corporate response to the customers\u2019 issues (improve work practices rather than provide technical solutions)   Team focuses on how to improve work practices rather than simply on deploying a new (or improved) technology  This may (and perhaps should) affect organizational structure and procedures, as well as drive system definition  Use of storyboards to show how work models are accounted for", 
+            "title": "Work redesign"
+        }, 
+        {
+            "location": "/2016-01-25/#user-environment-design", 
+            "text": "Shows how each part of the system supports the user\u2019s work, exactly what functions are available in each part, and how they are connected to other parts of the system. But this structure should not be tied to any particular UI.   A floor plan which shows the parts of the system and how they are related to each other from the user\u2019s point of view  Not tied to any particular UI", 
+            "title": "User environment design"
+        }, 
+        {
+            "location": "/2016-01-25/#mock-up-and-test-with-customers", 
+            "text": "Use paper based prototypes to support continuous iteration of the new system between the users and designers.   Use paper prototypes, supports more continuous iteration  Use it to test your ideas and iterate", 
+            "title": "Mock-up and test with customers"
+        }, 
+        {
+            "location": "/2016-01-25/#putting-into-practice", 
+            "text": "Tailor contextual design to your organization   CD will probably need to be tailored to each organization  Overcoming resistance", 
+            "title": "Putting into practice"
+        }, 
+        {
+            "location": "/2016-01-25/#prototyping", 
+            "text": "Allows team to elicit, clarify, validate, negotiate requirements, and choose between design alternatives. Checks feasibility with users and stakeholders, and allows them to contribute to design. Allows user to test ideas and usefulness of application.  Should prototype:    Work flow, task design  Screen layouts and information display   Difficult, controversial, critical areas", 
+            "title": "Prototyping"
+        }, 
+        {
+            "location": "/2016-01-25/#low-fidelity-prototypes", 
+            "text": "paper prototypes, storyboards   Brainstorming can be done using cheap mock- ups of the interface (involving a number of common interface items such as icons, menus...)    Storyboards, flipbooks and videos are used to provide mock-ups of interactive sequences and actions    Design team can perform a cognitive walkthrough (i.e. they can imagine going through the same mental steps as a user would)   Advantages:      \u201cquick and cheap\u201d to prepare and modify  Can be used to brainstorm competing designs   Users can create and modify them    Disadvantages:   Tends to focus on high level concepts Hard to envision a dialog\u2019s progression   Less compelling  Hard to detect errors", 
+            "title": "Low fidelity prototypes"
+        }, 
+        {
+            "location": "/2016-01-25/#paper-based-prototypes", 
+            "text": "A paper mock-up of the interface look, feel and functionality:   Using sketches  Cardboard mockups", 
+            "title": "Paper-based prototypes"
+        }, 
+        {
+            "location": "/2016-01-25/#storyboarding", 
+            "text": "A series of key frames are used to get the idea of a scene (idea originally from film)  Consists of sketched snapshots of the interface at particular points in the interaction  Users can evaluate quickly the direction the interface is heading  A flipbook can alternatively be created to give the effect of interactions with the interface  Card-based  Index cards  Each card represents one screen or part of a screen  Often used in website development", 
+            "title": "Storyboarding"
+        }, 
+        {
+            "location": "/2016-01-25/#pictive", 
+            "text": "\"plastic interface for collaborative technology initiatives through video exploration\u201d    Design is multiple layers of sticky notes and plastic overlays (can use stickies to represent icons, menus etc)  Interaction is demonstrated by manipulating notes  Session can be videotaped for later analysis or for showing to the users", 
+            "title": "Pictive"
+        }, 
+        {
+            "location": "/2016-01-25/#tutorial-and-manuals", 
+            "text": "Write them in advance of the system  A tutorial provides step by step descriptions of interactions with the interface  Manual provides an in-depth technical description of the interface  May find errors with the system usability if you can\u2019t easily explain how to do certain operations!", 
+            "title": "Tutorial and Manuals"
+        }, 
+        {
+            "location": "/2016-01-25/#medium-fidelity-prototypes", 
+            "text": "more interactive (may use real data)  Advantages:      More engaging for the end user, provides a limited scenario for the user to try out  Can test more subtle design issues   Disadvantages:   User\u2019s reactions are usually \u201cin the small\u201d; blinds people to major design flaws  Management may think it is real  Users may be reluctant to challenge the design (as it appears to be so \u201cfinal\u201d)", 
+            "title": "Medium fidelity prototypes"
+        }, 
+        {
+            "location": "/2016-01-25/#paintingdrawing-packages", 
+            "text": "Draw each storyboard scene on a computer, easier to change   Very thin horizontal prototype  Does not capture the interaction feel  e.g., Illustrator", 
+            "title": "Painting/Drawing packages"
+        }, 
+        {
+            "location": "/2016-01-25/#scripted-simulations-and-slide-shows", 
+            "text": "Created with media tools  Scene transitions activated by simple user inputs  Appears like a real system, but users must follow a set script   e.g., HyperCard, Director, Powerpoint, HTML", 
+            "title": "Scripted simulations and slide shows"
+        }, 
+        {
+            "location": "/2016-01-25/#interface-builders", 
+            "text": "Tools for letting designers lay out common widgets, requires programming  Objects behave as they would under real situations  Good for showing look and feel  Can create a broader horizontal prototype, vertical functionality added selectively  e.g., Balsmiq, invision, UXPin, Frontify", 
+            "title": "Interface Builders"
+        }, 
+        {
+            "location": "/2016-01-25/#high-fidelity-prototypes", 
+            "text": "interactive software prototypes, closer to finished product   Getting much closer to the final working system  Restricted functionality  Broad horizontal prototypes and deep vertical prototypes  May have incomplete functionality  May be a collection of predefined pages   links   Full prototype:  contains complete functionality but with lower performance  Horizontal prototype:  displays all or most of the application without going into any depth in any one part (useful for testing overall design concept)  Vertical prototype:  carries the user deep into the behaviours of specific parts of the system (useful for testing new design concepts and technology)  Advantages:       Shows UI, layout, navigation, look and feel   Compelling   Disadvantages:   Finished looking product stifles feedback   Can\u2019t be used early in design process", 
+            "title": "High fidelity prototypes"
+        }, 
+        {
+            "location": "/2016-01-25/#choosing-a-prototyping-approach", 
+            "text": "who will create the prototype?  how quickly do you want the prototype?  do you want to turn the prototype into the final product?  what are your software and hardware constraints?", 
+            "title": "Choosing a Prototyping Approach"
+        }, 
+        {
+            "location": "/2016-01-25/#summary", 
+            "text": "Use rapid prototyping techniques  Low fidelity for early iterative design  High fidelity for more thorough testing of later designs  User testing is possible, even with paper prototypes", 
+            "title": "Summary"
+        }, 
+        {
+            "location": "/2016-01-25/#assignments", 
+            "text": "None", 
+            "title": "Assignments"
+        }, 
+        {
+            "location": "/2016-01-29/", 
+            "text": "SENG 310 - Lecture 8\n\n\n25 January 2015\n\n\nDesign Thinking\n\n\n\u201cDesign thinking is a human-centered approach to innovation that draws from the designer's toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.\u201d\n\n\u2013 Tim Brown (President and CEO of IDEO)\n\n\nDesign Thinking vs. User-Centered Design\n\n\n\n\nEmpathy\n is a primary lens\n\n\nWalking in \"the user's shoes\"\n\n\nTends to involve \nmultidisciplinary teams\n\n\nLess technology driven, more \nuser driven\n\n\nIncreased focus creating working \nprototypes\n\n\nFailure\n of design is more openly accepted\n\n\n\n\nDesign Thinking Toolbox\n\n\nInstead of making something nicer or better, think: \nwhat should we be making?\n\n\nSketching\n\nFast, freeform exploration of many ideas Critical for innovation and conversations\n\n\nBrainstorming\n\nIdeas come from all members of group, explore otherwise unlikely solutions, approaches, or perspectives.\n\n\nDesigning with others\n\nPaper and pencil\n\nWireframes\n\nCome up with multiple designs\n\n\nPrototyping as a form of play\n \n\n\n\n\nDon\u2019t just aim for good (it may be limiting) \n\n\nStudy, study, study\n\n\nImitate (connect old ideas in new ways) \n\n\nSlow down\n\n\nAllow events to change you\n\n\n\n\nHave an iterative process\n  \n\n\n\n\nEmphasize\n\n\nSynthesize\n\n\nIdeate / Brainstorm\n\n\nPrototype / Evaluate\n\n\n\n\nHow to Begin\n\n\nDon't wait to be an expert, the process can enable experimatation. Sooner ideas are 'out there', the sooner feedback arives.\n\n\nUse Minimal Viable Product:\n\n\n\n\nHelps to validate ideas with least amount of effort\n\n\nSeries of experiments that will help you learn\n\n\n\"Fail early, fail often\"\n\n\nHelp you find out\n\n\nWho may use it?\n\n\nWhat kind of language do they use?\n\n\nWill they pay for it?\n\n\n\n\n\n\n\n\nWhat to Design\n\n\nBe Creative\"\n\n\n\n\nPeriod of \"not knowning\" leads to great possibilities\n\n\nSet time aside to drift\n\n\n\"Harest ideas. Edit applications\"\n\n\n\n\nAlways ask why:\n\n\n\n\nAnti-experts see possibilities others may miss.\n\n\nAsk the 'stupid' questions\n\n\n\n\nEmbrace Contraints:\n\n\n\n\nLimitations may lead you to creative solutions\n\n\nSimple designs lead to emergent behaviours\n\n\nKeep it small and simple\n\n\n\n\nBalancing Utility and Delight\n\n\nLevels of Design Appeal:\n\n\n\n\nVisceral (I want it)\n\n\nBehavioural (I can master it)\n\n\nReflective (it completes me)\n\n\n\n\nPrioritizing features\n\n\nRather than crossing out features, \ncircle\n the ones you really want\n\n\n\n\nThink in terms of users' goals, not features\n\n\nWhere can you have the most impact?\n\n\nWhat is the core value?\n\n\nWhat is essential? What is needed everyday?\n\n\n\n\nDisplace features to: what, phone, or computer\n\n\nMisc:\n\n\nd.school Mindset:\n\n\n\n\nShow, Don\u2019t tell\n\n\nFocus on Human Values \n\n\nCraft Clarity\n\n\nEmbrace Experimentation \n\n\nBe Mindful of Process \n\n\nBias toward Action \n\n\nRadical Collaboration\n\n\n\n\nAssignments\n\n\nNone", 
+            "title": "2016 01 29"
+        }, 
+        {
+            "location": "/2016-01-29/#seng-310-lecture-8", 
+            "text": "", 
+            "title": "SENG 310 - Lecture 8"
+        }, 
+        {
+            "location": "/2016-01-29/#25-january-2015", 
+            "text": "", 
+            "title": "25 January 2015"
+        }, 
+        {
+            "location": "/2016-01-29/#design-thinking", 
+            "text": "\u201cDesign thinking is a human-centered approach to innovation that draws from the designer's toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.\u201d \n\u2013 Tim Brown (President and CEO of IDEO)", 
+            "title": "Design Thinking"
+        }, 
+        {
+            "location": "/2016-01-29/#design-thinking-vs-user-centered-design", 
+            "text": "Empathy  is a primary lens  Walking in \"the user's shoes\"  Tends to involve  multidisciplinary teams  Less technology driven, more  user driven  Increased focus creating working  prototypes  Failure  of design is more openly accepted", 
+            "title": "Design Thinking vs. User-Centered Design"
+        }, 
+        {
+            "location": "/2016-01-29/#design-thinking-toolbox", 
+            "text": "Instead of making something nicer or better, think:  what should we be making?  Sketching \nFast, freeform exploration of many ideas Critical for innovation and conversations  Brainstorming \nIdeas come from all members of group, explore otherwise unlikely solutions, approaches, or perspectives.  Designing with others \nPaper and pencil \nWireframes \nCome up with multiple designs  Prototyping as a form of play     Don\u2019t just aim for good (it may be limiting)   Study, study, study  Imitate (connect old ideas in new ways)   Slow down  Allow events to change you   Have an iterative process      Emphasize  Synthesize  Ideate / Brainstorm  Prototype / Evaluate", 
+            "title": "Design Thinking Toolbox"
+        }, 
+        {
+            "location": "/2016-01-29/#how-to-begin", 
+            "text": "Don't wait to be an expert, the process can enable experimatation. Sooner ideas are 'out there', the sooner feedback arives.  Use Minimal Viable Product:   Helps to validate ideas with least amount of effort  Series of experiments that will help you learn  \"Fail early, fail often\"  Help you find out  Who may use it?  What kind of language do they use?  Will they pay for it?", 
+            "title": "How to Begin"
+        }, 
+        {
+            "location": "/2016-01-29/#what-to-design", 
+            "text": "Be Creative\"   Period of \"not knowning\" leads to great possibilities  Set time aside to drift  \"Harest ideas. Edit applications\"   Always ask why:   Anti-experts see possibilities others may miss.  Ask the 'stupid' questions   Embrace Contraints:   Limitations may lead you to creative solutions  Simple designs lead to emergent behaviours  Keep it small and simple", 
+            "title": "What to Design"
+        }, 
+        {
+            "location": "/2016-01-29/#balancing-utility-and-delight", 
+            "text": "Levels of Design Appeal:   Visceral (I want it)  Behavioural (I can master it)  Reflective (it completes me)", 
+            "title": "Balancing Utility and Delight"
+        }, 
+        {
+            "location": "/2016-01-29/#prioritizing-features", 
+            "text": "Rather than crossing out features,  circle  the ones you really want   Think in terms of users' goals, not features  Where can you have the most impact?  What is the core value?  What is essential? What is needed everyday?   Displace features to: what, phone, or computer", 
+            "title": "Prioritizing features"
+        }, 
+        {
+            "location": "/2016-01-29/#misc", 
+            "text": "", 
+            "title": "Misc:"
+        }, 
+        {
+            "location": "/2016-01-29/#dschool-mindset", 
+            "text": "Show, Don\u2019t tell  Focus on Human Values   Craft Clarity  Embrace Experimentation   Be Mindful of Process   Bias toward Action   Radical Collaboration", 
+            "title": "d.school Mindset:"
+        }, 
+        {
+            "location": "/2016-01-29/#assignments", 
+            "text": "None", 
+            "title": "Assignments"
         }
     ]
 }
