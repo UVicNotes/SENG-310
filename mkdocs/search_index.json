@@ -644,6 +644,241 @@
             "location": "/2016-01-29/#assignments", 
             "text": "None", 
             "title": "Assignments"
+        }, 
+        {
+            "location": "/2016-02-1/", 
+            "text": "SENG 310 - Lecture 9\n\n\n1 February 2015\n\n\nInteraction Paradigms\n\n\nCommand Based\n\n\nPros:\n\nEfficient, precise, fast, B\n\n\nCons:\n\nHard to learn\n\n\nTips:\n\nConsistency is naming, e.g., use of first letter\n\n\nGUIs\n\n\nExamples:\n  \n\n\n\n\nWindows\n\n\nIcons\n\n\nMenus\n\n\nDirect Manipulation\n\n\n\n\nLatest challenge: GUIs for new devices, e.g., watches, tablets, internet of things\n\n\nTypes:\n  \n\n\n\n\nStacking or floating\n\n\nTiling (without overlap)\n\n\nDynamic\n\n\n\n\nSolutions include Task based approaches, Docking, Automatic window management\n\n\nZoomable User Interfaces\n\n\n\n\nIvan Sutherland (Sketchpad) introduced the idea back in 1962!\n\n\nSmalltalk environment in the 1970\u2019s had the notion of an infinite desktop\n\n\nZui\u2019s: Pad++ (since 1996!)\n\n\nVirtual desktops favoured over Zui\u2019s generally\n\n\nBut the ideas appear in iOS\n\n\nSee also Presi (uses the idea for slides)\n\n\n\n\nMenus: Issues and Solutions\n\n\nMenu interface styles:\n  \n\n\n\n\nflat lists (good for small number of items) \n\n\ndrop down\n\n\npop up\n\n\ncontextual (context of current task)\n\n\nexpanding (scrolling, cascading \u2014 more flexible, good for long lists but require more precise control)\n\n\n\n\nIssues:\n naming, placement...\n\n\nIcons\n\n\nPros:\n  \n\n\n\n\nEasier to learn and remember than commands\n\n\nCan be positioned in different places, can be compact\n\n\nAttractive (visceral level?)  \n\n\n\n\nCons:\n  \n\n\n\n\nNot suitable for all commands\n\n\nNot always clear what they do (e.g., crop) \n\n\nCan be slower to select\n\n\nMay need to use text to make them clear\n\n\n\n\nMulti-media\n\n\nPros:\n  \n\n\n\n\nRapid access to multiple representations of information\n\n\nBenefits of different media types\n\n\nAppeal to different user styles (learning styles)\n\n\nCan encourage exploration, engaging\n\n\n\n\nCons:\n Harder to design applications\n\n\nVirtual Reality\n\n\n\n\nHighly engaging user experiences\n\n\nMechanisms to engage with objects and navigate in 3D space\n\n\nComputer-generated graphical simulations:\n\n\n\u201cthe illusion of participation in a synthetic environment rather than external observation of such an environment\u201d\n\n\n\n\nPros:\n  \n\n\n\n\nHigh level of fidelity with objects\n\n\nSense of presence\n\n\nDifferent viewpoints (1st and 3rd person) \n\n\nExcellent for training\n\n\n\n\nCons:\n  \n\n\n\n\nHead-mounted displays and other devices may be uncomfortable to wear\n\n\nMotion sickness, disorientation issues \n\n\nExpensive to design, use\n\n\n\n\nAugmented and Mixed Reality\n\n\nAugmented reality:\n virtual representations are superimposed on physical devices and objects\n\n\nMixed reality:\n views of the real world are combined with views of a virtual environment\n\n\nApplications:\n medicine, games, aeronautics etc\n\n\nSpeech\n\n\n\n\nUseful for inquiring about specific information or command based and for people with disabilities\n\n\nUsed a lot for navigating menu based systems\n\n\nBut not as usable as we might hope! Error prone\n\n\nWhat are your experiences with speech based interfaces?\n\n\n\n\nPen Interfaces\n\n\n\n\nLightpens or styluses \n\n\nDigital pens (e.g., Anoto)\n\n\n\n\nPros:\n  \n\n\n\n\nIntuitive to use, quick to learn\n\n\nGreat for annotation of documents\n\n\n\n\nCons:\n  \n\n\n\n\nSome systems are clunky to use \n\n\nHandwriting recognition has to be learned \n\n\nOccludes the screen\n\n\n\n\nTouch\n\n\nPros:\n  \n\n\n\n\nMulti-touch support supports bigger range of actions\n\n\nFluid interaction style\n\n\nCan support fast navigation\n\n\n\n\nCons:\n  \n\n\n\n\nCan be tricky for some to learn \n\n\nInconsistent across manufacturers \n\n\nError prone\n\n\nVirtual keyboards can be slower to use than real ones\n\n\n\n\nAir Based Gestures\n\n\nUses camera recognition, sensor and computer techniques to recognize people\u2019s body, arm, and hand gestures in a room.\n\n\nHaptic\n\n\n\n\nTactile feedback\n\n\nVibration and forces to a person\u2019s body, using actuators that are embedded in their clothing or a device they are carrying, such as smartphone, smart watch\n\n\nCan enrich user experience or nudge them to correct error\n\n\nCan also be used to simulate sense of touch between remote people\n\n\n\n\nShareable Displays\n\n\n\n\nDesigned for more than one person to use\n\n\nAllows simultaneous input by co-located groups\n\n\nLarge wall displays as well as interactive tabletops\n\n\n\n\nHorizontal Versus Vertical Displays\n\n\nHorizontal surfaces better for turn-taking and collaborative working\n\nLarger sized tables does not improve group work, but encourages more division of labour\n\n\nTangible\n\n\n\n\nPhysical objects are infused with sensor-based interactions (e.g., bricks are coupled with digital representations)  \n\n\ne.g., Chromarium cubes, flow blocks  \n\n\nGood for group work, support different ways of exploring and representing a problem space\n\n\nHelps people see situations in a new way\n\n\n\n\nWearables\n\n\n\n\nHead and eyewear mounted cameras to record what was seen and to access digital information\n\n\nSmart fabrics, jewellery\n\n\n\n\nApplications:\n fashion clothing, ambient displays, tour guides\n\n\nPros:\n Ease of wear, convenience, hands free\n\n\nCons:\n comfort? hygiene? usability?\n\n\nRobots and Drones\n\n\nCan be used in remote locations for hazardous situations\n\n\nPet robots\n as human companions, domestic robots\n\n\nSociable robots\n that work collaboratively with humans   and communicate and socialize with us\n\n\nIssues:\n how will we react to them? Should they be more or less human like? Ethical issues surrounding robots and drones...\n\n\nBrain Computer Interfaces\n\n\n\n\nProvide a communication pathway between a person\u2019s brain waves and an external device, such as a cursor on a screen\n\n\nBCIs work through detecting changes in the neural functioning in the brains\n\n\nFor people with certain disabilities, games...\n\n\n\n\nWhich Interaction Paradigm to use\n\n\nDepends on task, users, context, cost, robustness:  \n\n\n\n\nLearnability\n\n\nAccuracy\n\n\nLength of usage time \n\n\nSpace availability \n\n\nRobustness\n\n\nManual dexterity of the user\n\n\n\n\nSpeech interfaces are increasingly common...\n\nAppliance and vehicle interfaces are also more common\n\nStarting to see more shareable and tangible interfaces in homes, schools, public spaces and workplaces\n\n\nOne Concern\n\n\nMany of these devices and interfaces collect a lot of data about us\n\nNew interfaces are increasingly context aware and monitor what we do\n\nMany ethical issues are just emerging...  \n\n\nAssignments\n\n\nNone", 
+            "title": "2016 02 1"
+        }, 
+        {
+            "location": "/2016-02-1/#seng-310-lecture-9", 
+            "text": "", 
+            "title": "SENG 310 - Lecture 9"
+        }, 
+        {
+            "location": "/2016-02-1/#1-february-2015", 
+            "text": "", 
+            "title": "1 February 2015"
+        }, 
+        {
+            "location": "/2016-02-1/#interaction-paradigms", 
+            "text": "", 
+            "title": "Interaction Paradigms"
+        }, 
+        {
+            "location": "/2016-02-1/#command-based", 
+            "text": "Pros: \nEfficient, precise, fast, B  Cons: \nHard to learn  Tips: \nConsistency is naming, e.g., use of first letter", 
+            "title": "Command Based"
+        }, 
+        {
+            "location": "/2016-02-1/#guis", 
+            "text": "Examples:      Windows  Icons  Menus  Direct Manipulation   Latest challenge: GUIs for new devices, e.g., watches, tablets, internet of things  Types:      Stacking or floating  Tiling (without overlap)  Dynamic   Solutions include Task based approaches, Docking, Automatic window management", 
+            "title": "GUIs"
+        }, 
+        {
+            "location": "/2016-02-1/#zoomable-user-interfaces", 
+            "text": "Ivan Sutherland (Sketchpad) introduced the idea back in 1962!  Smalltalk environment in the 1970\u2019s had the notion of an infinite desktop  Zui\u2019s: Pad++ (since 1996!)  Virtual desktops favoured over Zui\u2019s generally  But the ideas appear in iOS  See also Presi (uses the idea for slides)", 
+            "title": "Zoomable User Interfaces"
+        }, 
+        {
+            "location": "/2016-02-1/#menus-issues-and-solutions", 
+            "text": "Menu interface styles:      flat lists (good for small number of items)   drop down  pop up  contextual (context of current task)  expanding (scrolling, cascading \u2014 more flexible, good for long lists but require more precise control)   Issues:  naming, placement...", 
+            "title": "Menus: Issues and Solutions"
+        }, 
+        {
+            "location": "/2016-02-1/#icons", 
+            "text": "Pros:      Easier to learn and remember than commands  Can be positioned in different places, can be compact  Attractive (visceral level?)     Cons:      Not suitable for all commands  Not always clear what they do (e.g., crop)   Can be slower to select  May need to use text to make them clear", 
+            "title": "Icons"
+        }, 
+        {
+            "location": "/2016-02-1/#multi-media", 
+            "text": "Pros:      Rapid access to multiple representations of information  Benefits of different media types  Appeal to different user styles (learning styles)  Can encourage exploration, engaging   Cons:  Harder to design applications", 
+            "title": "Multi-media"
+        }, 
+        {
+            "location": "/2016-02-1/#virtual-reality", 
+            "text": "Highly engaging user experiences  Mechanisms to engage with objects and navigate in 3D space  Computer-generated graphical simulations:  \u201cthe illusion of participation in a synthetic environment rather than external observation of such an environment\u201d   Pros:      High level of fidelity with objects  Sense of presence  Different viewpoints (1st and 3rd person)   Excellent for training   Cons:      Head-mounted displays and other devices may be uncomfortable to wear  Motion sickness, disorientation issues   Expensive to design, use", 
+            "title": "Virtual Reality"
+        }, 
+        {
+            "location": "/2016-02-1/#augmented-and-mixed-reality", 
+            "text": "Augmented reality:  virtual representations are superimposed on physical devices and objects  Mixed reality:  views of the real world are combined with views of a virtual environment  Applications:  medicine, games, aeronautics etc", 
+            "title": "Augmented and Mixed Reality"
+        }, 
+        {
+            "location": "/2016-02-1/#speech", 
+            "text": "Useful for inquiring about specific information or command based and for people with disabilities  Used a lot for navigating menu based systems  But not as usable as we might hope! Error prone  What are your experiences with speech based interfaces?", 
+            "title": "Speech"
+        }, 
+        {
+            "location": "/2016-02-1/#pen-interfaces", 
+            "text": "Lightpens or styluses   Digital pens (e.g., Anoto)   Pros:      Intuitive to use, quick to learn  Great for annotation of documents   Cons:      Some systems are clunky to use   Handwriting recognition has to be learned   Occludes the screen", 
+            "title": "Pen Interfaces"
+        }, 
+        {
+            "location": "/2016-02-1/#touch", 
+            "text": "Pros:      Multi-touch support supports bigger range of actions  Fluid interaction style  Can support fast navigation   Cons:      Can be tricky for some to learn   Inconsistent across manufacturers   Error prone  Virtual keyboards can be slower to use than real ones", 
+            "title": "Touch"
+        }, 
+        {
+            "location": "/2016-02-1/#air-based-gestures", 
+            "text": "Uses camera recognition, sensor and computer techniques to recognize people\u2019s body, arm, and hand gestures in a room.", 
+            "title": "Air Based Gestures"
+        }, 
+        {
+            "location": "/2016-02-1/#haptic", 
+            "text": "Tactile feedback  Vibration and forces to a person\u2019s body, using actuators that are embedded in their clothing or a device they are carrying, such as smartphone, smart watch  Can enrich user experience or nudge them to correct error  Can also be used to simulate sense of touch between remote people", 
+            "title": "Haptic"
+        }, 
+        {
+            "location": "/2016-02-1/#shareable-displays", 
+            "text": "Designed for more than one person to use  Allows simultaneous input by co-located groups  Large wall displays as well as interactive tabletops", 
+            "title": "Shareable Displays"
+        }, 
+        {
+            "location": "/2016-02-1/#horizontal-versus-vertical-displays", 
+            "text": "Horizontal surfaces better for turn-taking and collaborative working \nLarger sized tables does not improve group work, but encourages more division of labour", 
+            "title": "Horizontal Versus Vertical Displays"
+        }, 
+        {
+            "location": "/2016-02-1/#tangible", 
+            "text": "Physical objects are infused with sensor-based interactions (e.g., bricks are coupled with digital representations)    e.g., Chromarium cubes, flow blocks    Good for group work, support different ways of exploring and representing a problem space  Helps people see situations in a new way", 
+            "title": "Tangible"
+        }, 
+        {
+            "location": "/2016-02-1/#wearables", 
+            "text": "Head and eyewear mounted cameras to record what was seen and to access digital information  Smart fabrics, jewellery   Applications:  fashion clothing, ambient displays, tour guides  Pros:  Ease of wear, convenience, hands free  Cons:  comfort? hygiene? usability?", 
+            "title": "Wearables"
+        }, 
+        {
+            "location": "/2016-02-1/#robots-and-drones", 
+            "text": "Can be used in remote locations for hazardous situations  Pet robots  as human companions, domestic robots  Sociable robots  that work collaboratively with humans   and communicate and socialize with us  Issues:  how will we react to them? Should they be more or less human like? Ethical issues surrounding robots and drones...", 
+            "title": "Robots and Drones"
+        }, 
+        {
+            "location": "/2016-02-1/#brain-computer-interfaces", 
+            "text": "Provide a communication pathway between a person\u2019s brain waves and an external device, such as a cursor on a screen  BCIs work through detecting changes in the neural functioning in the brains  For people with certain disabilities, games...", 
+            "title": "Brain Computer Interfaces"
+        }, 
+        {
+            "location": "/2016-02-1/#which-interaction-paradigm-to-use", 
+            "text": "Depends on task, users, context, cost, robustness:     Learnability  Accuracy  Length of usage time   Space availability   Robustness  Manual dexterity of the user   Speech interfaces are increasingly common... \nAppliance and vehicle interfaces are also more common \nStarting to see more shareable and tangible interfaces in homes, schools, public spaces and workplaces", 
+            "title": "Which Interaction Paradigm to use"
+        }, 
+        {
+            "location": "/2016-02-1/#one-concern", 
+            "text": "Many of these devices and interfaces collect a lot of data about us \nNew interfaces are increasingly context aware and monitor what we do \nMany ethical issues are just emerging...", 
+            "title": "One Concern"
+        }, 
+        {
+            "location": "/2016-02-1/#assignments", 
+            "text": "None", 
+            "title": "Assignments"
+        }, 
+        {
+            "location": "/2016-02-15/", 
+            "text": "SENG 310 - Lecture 10\n\n\n15 February 2016\n\n\nReading, speaking and listening\n\n\n\n\nThe ease with which people an read, listen, or speak differs\n\n\nMany prefer listening to reading\n\n\nReading can be quicker than speaking or listening\n\n\nListening requires less cognitive effort than reading or speaking\n\n\nPeople with dyslexia have difficulties understanding and recognizing written words\n\n\n\n\nDesign implications:\n\n\n\n\nSpeech-based menus and instructions should be short\n\n\nAccentuate the intonation of artificially generated speech voices\n\n\nProvide opportunities for making text large or otherwise modify reading material\n\n\n\n\nProblem-solving planning, reasoning and decision-making\n\n\n\n\nAll involve \nreflective cognition\n (e.g. thinking about what to do, what the options are, and the consequences)\n\n\nOften involves conscious processes, discussion with others (or oneself), and the use of \nartefacts\n (e.g. maps, books, pen and paper)\n\n\nMay involve working through different scenarios and deciding which is the best options\n\n\n\n\nDesign Implications\n\n\n\n\nProvide additional information/functions for users who wish to understand more about how to carry out an activity more effectively\n\n\nUse simple computational aids to support rapid decision-making and planning for users on the move\n\n\n\n\nInformation Processing\n\n\nInformation in\n\n\n\n\nEncoding\n\n\nComparison\n\n\nResponse selection\n\n\nResponse execution\n\n\n\n\noutput or response out\n\n\nHuman processor model limitations\n\n\n\n\nBased on modelling mental activities that happen exclusively inside the head\n\n\nDo not adequately account for how people interact with computers and other devices in real world\n\n\n\n\nCognition in the wild\n\n\n\n\nCognitive processes may be distributed across \nmembers of a social group\n\n\nCognitive processes may involve coordination\nbetween \ninternal and external\n (material or environmental) structure\n\n\nProcess may be distributed through time \u2013 with products of earlier events transforming nature of later events \n\n\n\n\nExternalizing to reduce memory load\n\n\nDiaries, reminders, calendars, notes, shopping lists, to-dos\n\non Post-its, piles, marked emails\n\n\nExternal representations:\n  \n\n\n\n\nRemind us that we need to do something\n\n\nRemind us of what to do\n\n\nRemind us when to do something\n\n\n\n\nComputational offloading\n\n\nUsing technology to compute information which could otherwise (with more difficulty) be computed by the human\n\n\nAnnotation and cognitive tracing\n\n\nAnnotation:\n e.g. cross off, ticking underlining\n\n\nCognitive Tracing:\n e.g. playing scrabble, playing with graphs\n\n\nDesign implications\n\n\nProvide external representations at the interface that reduce memory load and facilitate computational offloading\n\n\nGuest Lecture\n\n\nBlah\n\n\nAssignments\n\n\nNone", 
+            "title": "2016 02 15"
+        }, 
+        {
+            "location": "/2016-02-15/#seng-310-lecture-10", 
+            "text": "", 
+            "title": "SENG 310 - Lecture 10"
+        }, 
+        {
+            "location": "/2016-02-15/#15-february-2016", 
+            "text": "", 
+            "title": "15 February 2016"
+        }, 
+        {
+            "location": "/2016-02-15/#reading-speaking-and-listening", 
+            "text": "The ease with which people an read, listen, or speak differs  Many prefer listening to reading  Reading can be quicker than speaking or listening  Listening requires less cognitive effort than reading or speaking  People with dyslexia have difficulties understanding and recognizing written words", 
+            "title": "Reading, speaking and listening"
+        }, 
+        {
+            "location": "/2016-02-15/#design-implications", 
+            "text": "Speech-based menus and instructions should be short  Accentuate the intonation of artificially generated speech voices  Provide opportunities for making text large or otherwise modify reading material", 
+            "title": "Design implications:"
+        }, 
+        {
+            "location": "/2016-02-15/#problem-solving-planning-reasoning-and-decision-making", 
+            "text": "All involve  reflective cognition  (e.g. thinking about what to do, what the options are, and the consequences)  Often involves conscious processes, discussion with others (or oneself), and the use of  artefacts  (e.g. maps, books, pen and paper)  May involve working through different scenarios and deciding which is the best options", 
+            "title": "Problem-solving planning, reasoning and decision-making"
+        }, 
+        {
+            "location": "/2016-02-15/#design-implications_1", 
+            "text": "Provide additional information/functions for users who wish to understand more about how to carry out an activity more effectively  Use simple computational aids to support rapid decision-making and planning for users on the move", 
+            "title": "Design Implications"
+        }, 
+        {
+            "location": "/2016-02-15/#information-processing", 
+            "text": "Information in   Encoding  Comparison  Response selection  Response execution   output or response out", 
+            "title": "Information Processing"
+        }, 
+        {
+            "location": "/2016-02-15/#human-processor-model-limitations", 
+            "text": "Based on modelling mental activities that happen exclusively inside the head  Do not adequately account for how people interact with computers and other devices in real world", 
+            "title": "Human processor model limitations"
+        }, 
+        {
+            "location": "/2016-02-15/#cognition-in-the-wild", 
+            "text": "Cognitive processes may be distributed across  members of a social group  Cognitive processes may involve coordination\nbetween  internal and external  (material or environmental) structure  Process may be distributed through time \u2013 with products of earlier events transforming nature of later events", 
+            "title": "Cognition in the wild"
+        }, 
+        {
+            "location": "/2016-02-15/#externalizing-to-reduce-memory-load", 
+            "text": "Diaries, reminders, calendars, notes, shopping lists, to-dos \non Post-its, piles, marked emails  External representations:      Remind us that we need to do something  Remind us of what to do  Remind us when to do something", 
+            "title": "Externalizing to reduce memory load"
+        }, 
+        {
+            "location": "/2016-02-15/#computational-offloading", 
+            "text": "Using technology to compute information which could otherwise (with more difficulty) be computed by the human", 
+            "title": "Computational offloading"
+        }, 
+        {
+            "location": "/2016-02-15/#annotation-and-cognitive-tracing", 
+            "text": "Annotation:  e.g. cross off, ticking underlining  Cognitive Tracing:  e.g. playing scrabble, playing with graphs", 
+            "title": "Annotation and cognitive tracing"
+        }, 
+        {
+            "location": "/2016-02-15/#design-implications_2", 
+            "text": "Provide external representations at the interface that reduce memory load and facilitate computational offloading", 
+            "title": "Design implications"
+        }, 
+        {
+            "location": "/2016-02-15/#guest-lecture", 
+            "text": "Blah", 
+            "title": "Guest Lecture"
+        }, 
+        {
+            "location": "/2016-02-15/#assignments", 
+            "text": "None", 
+            "title": "Assignments"
+        }, 
+        {
+            "location": "/2016-02-4/", 
+            "text": "SENG 310 - Lecture 9\n\n\n4 February 2016\n\n\nGraphic Design\n\n\nPart 1 Slides\n\n\nPart 2 Slides\n\n\n(Too many figures to take notes on)\n\n\nAssignments\n\n\nNone", 
+            "title": "2016 02 4"
+        }, 
+        {
+            "location": "/2016-02-4/#seng-310-lecture-9", 
+            "text": "", 
+            "title": "SENG 310 - Lecture 9"
+        }, 
+        {
+            "location": "/2016-02-4/#4-february-2016", 
+            "text": "", 
+            "title": "4 February 2016"
+        }, 
+        {
+            "location": "/2016-02-4/#graphic-design", 
+            "text": "Part 1 Slides  Part 2 Slides  (Too many figures to take notes on)", 
+            "title": "Graphic Design"
+        }, 
+        {
+            "location": "/2016-02-4/#assignments", 
+            "text": "None", 
+            "title": "Assignments"
         }
     ]
 }
